@@ -1,0 +1,6 @@
+{
+  "name": "AgroSmart Precision Telemetry",
+  "description": "High-precision agronomic telemetry and dual-engine database console for monitoring field sensors, irrigation valves, and GeoJSON boundaries across Oracle Enterprise and MongoDB Atlas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

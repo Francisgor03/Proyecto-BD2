@@ -1,0 +1,257 @@
+---
+name: AgroSmart Precision Telemetry
+colors:
+  surface: '#f8f9ff'
+  surface-dim: '#cbdbf5'
+  surface-bright: '#f8f9ff'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#eff4ff'
+  surface-container: '#e5eeff'
+  surface-container-high: '#dce9ff'
+  surface-container-highest: '#d3e4fe'
+  on-surface: '#0b1c30'
+  on-surface-variant: '#3d4a42'
+  inverse-surface: '#213145'
+  inverse-on-surface: '#eaf1ff'
+  outline: '#6d7a72'
+  outline-variant: '#bccac0'
+  surface-tint: '#006c4a'
+  primary: '#006948'
+  on-primary: '#ffffff'
+  primary-container: '#00855d'
+  on-primary-container: '#f5fff7'
+  inverse-primary: '#68dba9'
+  secondary: '#565e74'
+  on-secondary: '#ffffff'
+  secondary-container: '#dae2fd'
+  on-secondary-container: '#5c647a'
+  tertiary: '#006194'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#007bb9'
+  on-tertiary-container: '#fdfcff'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#85f8c4'
+  primary-fixed-dim: '#68dba9'
+  on-primary-fixed: '#002114'
+  on-primary-fixed-variant: '#005137'
+  secondary-fixed: '#dae2fd'
+  secondary-fixed-dim: '#bec6e0'
+  on-secondary-fixed: '#131b2e'
+  on-secondary-fixed-variant: '#3f465c'
+  tertiary-fixed: '#cce5ff'
+  tertiary-fixed-dim: '#93ccff'
+  on-tertiary-fixed: '#001d31'
+  on-tertiary-fixed-variant: '#004b73'
+  background: '#f8f9ff'
+  on-background: '#0b1c30'
+  surface-variant: '#d3e4fe'
+typography:
+  headline-xl:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 36px
+    fontWeight: '700'
+    lineHeight: 44px
+    letterSpacing: -0.025em
+  headline-xl-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 28px
+    fontWeight: '700'
+    lineHeight: 36px
+    letterSpacing: -0.02em
+  headline-lg:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 28px
+    fontWeight: '600'
+    lineHeight: 36px
+    letterSpacing: -0.02em
+  headline-lg-mobile:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 22px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.015em
+  headline-md:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+    letterSpacing: -0.015em
+  headline-sm:
+    fontFamily: Plus Jakarta Sans
+    fontSize: 16px
+    fontWeight: '600'
+    lineHeight: 24px
+    letterSpacing: -0.01em
+  body-lg:
+    fontFamily: Inter
+    fontSize: 16px
+    fontWeight: '400'
+    lineHeight: 24px
+    letterSpacing: 0em
+  body-md:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '400'
+    lineHeight: 20px
+    letterSpacing: 0em
+  body-sm:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '400'
+    lineHeight: 16px
+    letterSpacing: 0.01em
+  label-lg:
+    fontFamily: Inter
+    fontSize: 14px
+    fontWeight: '500'
+    lineHeight: 20px
+    letterSpacing: 0.01em
+  label-md:
+    fontFamily: Inter
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: 0.02em
+  label-sm:
+    fontFamily: Inter
+    fontSize: 11px
+    fontWeight: '600'
+    lineHeight: 14px
+    letterSpacing: 0.04em
+  code-pill:
+    fontFamily: JetBrains Mono
+    fontSize: 12px
+    fontWeight: '500'
+    lineHeight: 16px
+    letterSpacing: -0.01em
+  code-pill-sm:
+    fontFamily: JetBrains Mono
+    fontSize: 10px
+    fontWeight: '500'
+    lineHeight: 12px
+    letterSpacing: 0em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1.5rem
+  gutter-sm: 1rem
+  margin: 2rem
+  margin-sm: 1rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2rem
+---
+
+## Brand & Style
+
+This design system establishes a high-precision, utilitarian aesthetic tailored for modern agronomy, telemetry monitoring, and smart field automation. It merges systematic enterprise density with organic natural context, delivering clarity in data-dense environments.
+
+### Core Character
+- **Systematic & Grounded:** Clean, architectural lines with absolute structural order. Data legibility takes precedence over decorative flourishes.
+- **Instrument-Grade Precision:** Designed to feel like a high-end agronomic operating console—clear states, rapid triage markers, and scannable metrics.
+- **Organic Modernism:** A crisp, light-mode palette anchored by vibrant botanical accents, evoking vitality, growth, and environmental balance.
+
+### Target Audience & Emotional Impact
+Designed for field agronomists, greenhouse operators, and agricultural IoT engineers. The interface instills calm operational certainty, reduces alert fatigue through precise semantic color cues, and facilitates real-time micro-decisions across complex, mixed database architectures.
+
+## Colors
+
+The palette balances clinical legibility with authoritative agricultural accents. Low-saturation structural neutrals allow semantic telemetry signals to command immediate attention.
+
+### Palette Architecture
+- **Canvas Base:** `#F8FAFC` (Slate-50) creates an anti-glare, soft background ideal for long operational shifts.
+- **Surfaces:** `#FFFFFF` (Pure White) provides crisp elevated layers for cards, tables, and sensor readouts.
+- **Subtle Borders:** `#E2E8F0` (Slate-200) standardizes container boundaries with razor-thin structural definition.
+- **Primary Brand Accent:** `#059669` (Emerald-600) represents active field health, optimal states, and primary user workflows. Hover state steps down to `#047857` (Emerald-700), with active states resting at `#065F46` (Emerald-800).
+- **Secondary (Structural & Text):** `#0F172A` (Slate-900) ensures sharp typographic contrast and anchors the main navigation sidebar.
+
+### Semantic Triage & Status Badges
+Status indicators must strictly adhere to the following surface and foreground tokens:
+- **Normal (Optimal):** Background `#DEF7EC` (Emerald-50), Text/Border `#03543F` (Emerald-900). Denotes calibrated sensors, stable irrigation levels, and healthy soil moisture.
+- **Advertencia (Warning):** Background `#FEF3C7` (Amber-100), Text/Border `#92400E` (Amber-800). Indicates threshold drift, high salinity warnings, or scheduled maintenance required.
+- **Crítico (Critical):** Background `#FEE2E2` (Red-100), Text/Border `#991B1B` (Red-800). Flags valve pressure drop, offline gateway links, or sudden frost conditions.
+- **Telemetry Monospace:** Background `#F1F5F9` (Slate-100), Text `#334155` (Slate-700), Border `#CBD5E1` (Slate-300).
+
+## Typography
+
+The typographic hierarchy separates high-level executive insight, structured operational reads, and technical hardware identification.
+
+### Font Roles
+- **Display & Headlines (Plus Jakarta Sans):** Brings contemporary warmth and geometric clarity to high-level metric summaries, module headings, and navigation labels.
+- **Interface & Body (Inter):** Serves as the primary operational engine. Delivers maximum legibility inside high-density data tables, form layouts, and metric trends.
+- **Technical Telemetry (JetBrains Mono):** Reserved for technical identifiers—sensor serials (e.g., `SN-7749-X`), MAC addresses, Oracle primary keys, and raw 24-character hexadecimal MongoDB ObjectIds (e.g., `507f191e810c19729de860ea`). Its tabular figures align vertically within data grids.
+
+## Layout & Spacing
+
+This design system uses a strict 8pt base grid with a 4pt sub-grid for dense technical controls.
+
+### Structure & Responsive Rules
+- **Desktop (1280px+):** Fixed 260px collapsible sidebar navigation flanked by a fluid 12-column content grid with `gutter: 1.5rem` and `margin: 2rem`. Content cards span 3, 4, 6, or 12 columns.
+- **Tablet (768px - 1279px):** Sidebar collapses to an 72px icon rail. The grid contracts to 8 columns with `gutter: 1rem` and `margin: 1.5rem`. KPI cards drop to 2x2 grid arrangements.
+- **Mobile (< 768px):** Single-column vertical reflow (`gutter-sm: 1rem`, `margin-sm: 1rem`). The sidebar converts to an off-canvas drawer accessible via top bar navigation. KPI stacks collapse into swipeable cards or single-column blocks. Data tables transition to horizontally scrollable views with pinned primary identity columns.
+
+## Elevation & Depth
+
+Visual hierarchy is maintained primarily through surface contrast, hairline borders, and micro-shadows, avoiding heavy multi-tiered drop shadows that clutter analytical workflows.
+
+### Elevation Levels
+- **Canvas Base (Level 0):** `#F8FAFC`. Completely flat ground plane.
+- **Resting Panels & Cards (Level 1):** `#FFFFFF` layered over the canvas, delimited by a single 1px solid border of `#E2E8F0` and an ambient shadow: `box-shadow: 0 1px 3px 0 rgba(15, 23, 42, 0.04), 0 1px 2px -1px rgba(15, 23, 42, 0.04)`.
+- **Dropdowns, Popovers & Hover States (Level 2):** Subtle elevation with crisp contours: `box-shadow: 0 4px 6px -1px rgba(15, 23, 42, 0.06), 0 2px 4px -2px rgba(15, 23, 42, 0.05)`, border `#CBD5E1`.
+- **Modals & Dialogs (Level 3):** Floated elements featuring a modern glass backdrop: `backdrop-filter: blur(8px)`, background `rgba(15, 23, 42, 0.4)`. The modal container uses `#FFFFFF`, a 1px border of `#E2E8F0`, and deep ambient diffusion: `box-shadow: 0 20px 25px -5px rgba(15, 23, 42, 0.1), 0 8px 10px -6px rgba(15, 23, 42, 0.08)`.
+
+## Shapes
+
+The design system implements a controlled, modern curvature:
+- **Base Components (Inputs, Buttons, Badges):** 0.5rem (`8px`) radius for a crisp, approachable feel.
+- **Cards, Containers, and Data Panels:** `rounded-lg` (1rem / `16px`) to cleanly frame dense chart matrices and table views.
+- **Modals & Flyout Sheets:** `rounded-xl` (1.5rem / `24px`) to denote distinct structural layering.
+- **Identifier Pills & Badges:** Full pill-shaped rounding (`9999px`) to visually distinguish status and telemetry chips from clickable rectangular buttons.
+
+## Components
+
+### 1. Navigation Sidebar
+- **Engine Categorization:** Segmented into dedicated sections: **Oracle Enterprise** (relational schemas, billing, crop batches, structured telemetry) and **MongoDB Atlas** (unstructured device logs, real-time telemetry streams, GeoJSON boundary collections).
+- **Styling:** Matte dark slate `#0F172A` or pure white with clean slate borders. Active items feature a vertical 3px indicator of `#059669` on the leading edge with a soft emerald background tint (`rgba(5, 150, 105, 0.08)`).
+- **Badges:** Engine badges appear alongside database collections—`ORA` (neutral dark outline) and `MDB` (forest-tinted pill).
+
+### 2. Buttons
+- **Primary:** Background `#059669`, text `#FFFFFF`, font weight 500. Hover: `#047857`. Focus: 2px ring offset `#FFFFFF`, ring color `#059669`.
+- **Secondary / Outline:** Background `#FFFFFF`, border 1px solid `#E2E8F0`, text `#0F172A`. Hover: background `#F8FAFC`, border `#CBD5E1`.
+- **Destructive:** Background `#FEE2E2`, border 1px solid `#FCA5A5`, text `#991B1B`. Hover: background `#EF4444`, text `#FFFFFF`.
+- **Icon Actions:** 32x32px square with 8px corner radius, centered icon, subtle border on hover.
+
+### 3. KPI Metric Cards
+- **Structure:** Pure white `#FFFFFF` surface, 1px `#E2E8F0` border, `rounded-lg` corners. Internal padding `space-lg` (24px).
+- **Layout:** Top row contains metric label (`label-md`, Slate-500) and small telemetry badge/icon. Middle row showcases a large dynamic metric (`headline-xl`, Slate-900). Bottom row renders trend micro-copy: delta indicator (+3.2% vs target) rendered in semantic Emerald or Crimson text alongside a mini sparkline graph.
+
+### 4. Status Badges & Telemetry Pills
+- **Triage Badges:** Standardized pill shapes (padding `2px 10px`, typography `label-sm`).
+  - *Normal:* `#DEF7EC` bg, `#03543F` text, border 1px solid `rgba(5, 150, 105, 0.2)`.
+  - *Advertencia:* `#FEF3C7` bg, `#92400E` text, border 1px solid `rgba(217, 119, 6, 0.2)`.
+  - *Crítico:* `#FEE2E2` bg, `#991B1B` text, border 1px solid `rgba(220, 38, 38, 0.2)`.
+- **Monospace Identifiers:** Padding `2px 8px`, `rounded-md`, background `#F1F5F9`, border 1px solid `#E2E8F0`, typography `code-pill`, text `#334155`. MongoDB ObjectId displays truncate the middle with an ellipsis (`507f...60ea`) with click-to-copy functionality.
+
+### 5. Data Tables with Row Actions
+- **Header:** Sticky top header, background `#F8FAFC`, text `#64748B`, typography `label-sm` in uppercase with subtle letter spacing. Bottom border 1px solid `#E2E8F0`.
+- **Row Styling:** Height 52px, alternating or white row background, bottom border 1px solid `#F1F5F9`. Hover state shifts surface to `#F8FAFC`.
+- **Action Column:** Pinned right edge containing quick telemetry actions (ping sensor, trigger irrigation solenoid, inspect JSON payload).
+
+### 6. Form Controls & Inputs
+- **Text Inputs:** Height 40px, surface `#FFFFFF`, border 1px solid `#CBD5E1`, typography `body-md`. Focus border `#059669` with `box-shadow: 0 0 0 3px rgba(5, 150, 105, 0.15)`.
+- **Checkboxes & Radios:** 18x18px, border `#CBD5E1`. Checked state fills `#059669` with a crisp white tick mark.
+
+### 7. Modal Dialogs
+- **Overlay:** Backing screen covered with `rgba(15, 23, 42, 0.4)` and a real-time `backdrop-blur(8px)` effect.
+- **Dialog Box:** Width max-600px, background `#FFFFFF`, border 1px solid `#E2E8F0`, corner radius 1.5rem (`24px`), internal spacing `space-xl` (32px).
+- **Header & Footer:** Header includes title and sensor status pill. Footer features right-aligned actions with distinct separation from form bodies.

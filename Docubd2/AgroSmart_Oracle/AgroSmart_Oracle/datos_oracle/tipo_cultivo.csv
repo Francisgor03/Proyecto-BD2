@@ -1,0 +1,31 @@
+id_tipo_cultivo,nombre,categoria,descripcion,duracion_dias
+1,Palta Hass,FRUTAL,Cultivo de categoria frutal. Duracion de ciclo de referencia sintetica.,300
+2,Uva de mesa,FRUTAL,Cultivo de categoria frutal. Duracion de ciclo de referencia sintetica.,280
+3,Arandano,FRUTAL,Cultivo de categoria frutal. Duracion de ciclo de referencia sintetica.,240
+4,Mango Kent,FRUTAL,Cultivo de categoria frutal. Duracion de ciclo de referencia sintetica.,270
+5,Mandarina,FRUTAL,Cultivo de categoria frutal. Duracion de ciclo de referencia sintetica.,260
+6,Limon sutil,FRUTAL,Cultivo de categoria frutal. Duracion de ciclo de referencia sintetica.,300
+7,Platano,FRUTAL,Cultivo de categoria frutal. Duracion de ciclo de referencia sintetica.,280
+8,Maracuya,FRUTAL,Cultivo de categoria frutal. Duracion de ciclo de referencia sintetica.,240
+9,Fresa,FRUTAL,Cultivo de categoria frutal. Duracion de ciclo de referencia sintetica.,150
+10,Esparrago,HORTALIZA,Cultivo de categoria hortaliza. Duracion de ciclo de referencia sintetica.,180
+11,Cebolla roja,HORTALIZA,Cultivo de categoria hortaliza. Duracion de ciclo de referencia sintetica.,150
+12,Ajo,HORTALIZA,Cultivo de categoria hortaliza. Duracion de ciclo de referencia sintetica.,160
+13,Tomate,HORTALIZA,Cultivo de categoria hortaliza. Duracion de ciclo de referencia sintetica.,120
+14,Pimiento piquillo,HORTALIZA,Cultivo de categoria hortaliza. Duracion de ciclo de referencia sintetica.,140
+15,Alcachofa,HORTALIZA,Cultivo de categoria hortaliza. Duracion de ciclo de referencia sintetica.,200
+16,Zapallo macre,HORTALIZA,Cultivo de categoria hortaliza. Duracion de ciclo de referencia sintetica.,110
+17,Lechuga,HORTALIZA,Cultivo de categoria hortaliza. Duracion de ciclo de referencia sintetica.,60
+18,Maiz amarillo duro,CEREAL,Cultivo de categoria cereal. Duracion de ciclo de referencia sintetica.,130
+19,Arroz,CEREAL,Cultivo de categoria cereal. Duracion de ciclo de referencia sintetica.,150
+20,Quinua,CEREAL,Cultivo de categoria cereal. Duracion de ciclo de referencia sintetica.,140
+21,Trigo,CEREAL,Cultivo de categoria cereal. Duracion de ciclo de referencia sintetica.,160
+22,Cebada,CEREAL,Cultivo de categoria cereal. Duracion de ciclo de referencia sintetica.,150
+23,Frijol canario,LEGUMINOSA,Cultivo de categoria leguminosa. Duracion de ciclo de referencia sintetica.,100
+24,Haba verde,LEGUMINOSA,Cultivo de categoria leguminosa. Duracion de ciclo de referencia sintetica.,130
+25,Arveja,LEGUMINOSA,Cultivo de categoria leguminosa. Duracion de ciclo de referencia sintetica.,110
+26,Papa blanca,TUBERCULO,Cultivo de categoria tuberculo. Duracion de ciclo de referencia sintetica.,130
+27,Camote,TUBERCULO,Cultivo de categoria tuberculo. Duracion de ciclo de referencia sintetica.,140
+28,Yuca,TUBERCULO,Cultivo de categoria tuberculo. Duracion de ciclo de referencia sintetica.,270
+29,Cafe,INDUSTRIAL,Cultivo de categoria industrial. Duracion de ciclo de referencia sintetica.,320
+30,Cacao,INDUSTRIAL,Cultivo de categoria industrial. Duracion de ciclo de referencia sintetica.,300

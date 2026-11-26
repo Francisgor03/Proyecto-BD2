@@ -1,0 +1,31 @@
+id_insumo,nombre,tipo,unidad_medida,precio_referencial
+1,Urea 46%,FERTILIZANTE,KG,2.1
+2,Nitrato de amonio,FERTILIZANTE,KG,2.4
+3,Fosfato diamonico,FERTILIZANTE,KG,3.2
+4,Cloruro de potasio,FERTILIZANTE,KG,2.8
+5,Sulfato de potasio,FERTILIZANTE,KG,3.6
+6,Nitrato de calcio,FERTILIZANTE,KG,2.9
+7,Superfosfato triple,FERTILIZANTE,KG,2.7
+8,Sulfato de magnesio,FERTILIZANTE,KG,1.9
+9,Compost,FERTILIZANTE,SACO,18.0
+10,Guano de isla,FERTILIZANTE,SACO,45.0
+11,Humus de lombriz,FERTILIZANTE,SACO,25.0
+12,Cipermetrina,PESTICIDA,L,38.0
+13,Clorpirifos,PESTICIDA,L,42.0
+14,Imidacloprid,PESTICIDA,L,95.0
+15,Abamectina,PESTICIDA,L,120.0
+16,Glifosato,HERBICIDA,L,22.0
+17,Pendimetalina,HERBICIDA,L,48.0
+18,Oxifluorfen,HERBICIDA,L,85.0
+19,Mancozeb,FUNGICIDA,KG,24.0
+20,Azoxistrobina,FUNGICIDA,L,160.0
+21,Oxicloruro de cobre,FUNGICIDA,KG,28.0
+22,Azufre mojable,FUNGICIDA,KG,8.5
+23,Semilla de maiz,SEMILLA,KG,12.0
+24,Semilla de frijol,SEMILLA,KG,9.0
+25,Semilla de quinua,SEMILLA,KG,14.0
+26,Plantula de tomate,SEMILLA,UNIDAD,0.35
+27,Cal agricola,ENMIENDA,SACO,15.0
+28,Yeso agricola,ENMIENDA,SACO,14.0
+29,Dolomita,ENMIENDA,SACO,16.5
+30,Acido humico,ENMIENDA,L,30.0

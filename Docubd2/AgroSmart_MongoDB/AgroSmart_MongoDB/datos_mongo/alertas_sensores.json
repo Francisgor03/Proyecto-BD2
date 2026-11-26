@@ -1,0 +1,878 @@
+[
+ {
+  "id_sensor": 1,
+  "id_parcela": 1,
+  "fecha": {
+   "$date": "2026-11-13T22:04:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 31.0,
+  "umbral_configurado": 30,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-14T13:04:00Z"
+  },
+  "id_trabajador_atencion": 27,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 2,
+  "id_parcela": 2,
+  "fecha": {
+   "$date": "2026-11-17T10:52:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 23.0,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 3,
+  "id_parcela": 3,
+  "fecha": {
+   "$date": "2026-11-18T22:08:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "media",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 35.4,
+  "umbral_configurado": 30,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 4,
+  "id_parcela": 4,
+  "fecha": {
+   "$date": "2026-11-19T14:36:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "media",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 33.5,
+  "umbral_configurado": 30,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 8,
+  "id_parcela": 8,
+  "fecha": {
+   "$date": "2026-11-18T09:40:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 11.5,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-18T22:40:00Z"
+  },
+  "id_trabajador_atencion": 38,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 9,
+  "id_parcela": 9,
+  "fecha": {
+   "$date": "2026-11-08T20:04:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 23.8,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-10T03:04:00Z"
+  },
+  "id_trabajador_atencion": 37,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 10,
+  "id_parcela": 10,
+  "fecha": {
+   "$date": "2026-11-17T03:34:00Z"
+  },
+  "tipo_alerta": "temperatura_baja",
+  "severidad": "media",
+  "descripcion": "Temperatura ambiental por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 9.0,
+  "umbral_configurado": 12,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 11,
+  "id_parcela": 11,
+  "fecha": {
+   "$date": "2026-11-09T10:08:00Z"
+  },
+  "tipo_alerta": "humedad_alta",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 64.8,
+  "umbral_configurado": 55,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 12,
+  "id_parcela": 12,
+  "fecha": {
+   "$date": "2026-10-06T01:27:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 24.6,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-10-07T13:27:00Z"
+  },
+  "id_trabajador_atencion": 18,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 12,
+  "id_parcela": 12,
+  "fecha": {
+   "$date": "2026-11-19T02:25:00Z"
+  },
+  "tipo_alerta": "sensor_sin_senal",
+  "severidad": "media",
+  "descripcion": "El sensor dejo de reportar lecturas.",
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-20T16:25:00Z"
+  },
+  "id_trabajador_atencion": 5,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 13,
+  "id_parcela": 13,
+  "fecha": {
+   "$date": "2026-10-10T17:42:00Z"
+  },
+  "tipo_alerta": "temperatura_baja",
+  "severidad": "media",
+  "descripcion": "Temperatura ambiental por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 7.8,
+  "umbral_configurado": 12,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-10-12T13:42:00Z"
+  },
+  "id_trabajador_atencion": 11,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 13,
+  "id_parcela": 13,
+  "fecha": {
+   "$date": "2026-11-02T14:22:00Z"
+  },
+  "tipo_alerta": "sensor_sin_senal",
+  "severidad": "media",
+  "descripcion": "El sensor dejo de reportar lecturas.",
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 14,
+  "id_parcela": 14,
+  "fecha": {
+   "$date": "2026-11-12T20:38:00Z"
+  },
+  "tipo_alerta": "humedad_alta",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 62.8,
+  "umbral_configurado": 55,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-13T22:38:00Z"
+  },
+  "id_trabajador_atencion": 18,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 14,
+  "id_parcela": 14,
+  "fecha": {
+   "$date": "2026-11-21T00:42:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 21.6,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 16,
+  "id_parcela": 16,
+  "fecha": {
+   "$date": "2026-11-21T17:33:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 13.5,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 17,
+  "id_parcela": 17,
+  "fecha": {
+   "$date": "2026-11-20T01:15:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 30.1,
+  "umbral_configurado": 30,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 17,
+  "id_parcela": 17,
+  "fecha": {
+   "$date": "2026-11-20T05:19:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 32.8,
+  "umbral_configurado": 30,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 18,
+  "id_parcela": 18,
+  "fecha": {
+   "$date": "2026-11-16T05:08:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 23.8,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-17T13:08:00Z"
+  },
+  "id_trabajador_atencion": 20,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 18,
+  "id_parcela": 18,
+  "fecha": {
+   "$date": "2026-11-19T22:14:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 23.5,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 18,
+  "id_parcela": 18,
+  "fecha": {
+   "$date": "2026-11-20T03:26:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 24.8,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 19,
+  "id_parcela": 19,
+  "fecha": {
+   "$date": "2026-11-11T01:57:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 16.0,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-11T16:57:00Z"
+  },
+  "id_trabajador_atencion": 18,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 19,
+  "id_parcela": 19,
+  "fecha": {
+   "$date": "2026-11-12T17:33:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 22.0,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-14T17:33:00Z"
+  },
+  "id_trabajador_atencion": 35,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 20,
+  "id_parcela": 20,
+  "fecha": {
+   "$date": "2026-11-12T14:02:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 15.7,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-14T00:02:00Z"
+  },
+  "id_trabajador_atencion": 5,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 21,
+  "id_parcela": 21,
+  "fecha": {
+   "$date": "2026-11-14T08:27:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "media",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 33.1,
+  "umbral_configurado": 30,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-16T05:27:00Z"
+  },
+  "id_trabajador_atencion": 37,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 21,
+  "id_parcela": 21,
+  "fecha": {
+   "$date": "2026-11-18T18:19:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 31.5,
+  "umbral_configurado": 30,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-19T08:19:00Z"
+  },
+  "id_trabajador_atencion": 27,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 21,
+  "id_parcela": 21,
+  "fecha": {
+   "$date": "2026-11-19T00:19:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "media",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 35.1,
+  "umbral_configurado": 30,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 22,
+  "id_parcela": 22,
+  "fecha": {
+   "$date": "2026-10-10T08:45:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 19.3,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 22,
+  "id_parcela": 22,
+  "fecha": {
+   "$date": "2026-10-11T04:01:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 23.2,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 22,
+  "id_parcela": 22,
+  "fecha": {
+   "$date": "2026-10-21T02:32:00Z"
+  },
+  "tipo_alerta": "sensor_sin_senal",
+  "severidad": "media",
+  "descripcion": "El sensor dejo de reportar lecturas.",
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 23,
+  "id_parcela": 23,
+  "fecha": {
+   "$date": "2026-11-09T12:23:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 10.4,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-10T06:23:00Z"
+  },
+  "id_trabajador_atencion": 5,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 23,
+  "id_parcela": 23,
+  "fecha": {
+   "$date": "2026-11-10T10:55:00Z"
+  },
+  "tipo_alerta": "humedad_alta",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 68.7,
+  "umbral_configurado": 55,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-11T18:55:00Z"
+  },
+  "id_trabajador_atencion": 11,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 25,
+  "id_parcela": 25,
+  "fecha": {
+   "$date": "2026-11-11T04:41:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 21.8,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-11T08:41:00Z"
+  },
+  "id_trabajador_atencion": 11,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 25,
+  "id_parcela": 25,
+  "fecha": {
+   "$date": "2026-11-18T05:33:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 32.0,
+  "umbral_configurado": 30,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-18T23:33:00Z"
+  },
+  "id_trabajador_atencion": 8,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 28,
+  "id_parcela": 28,
+  "fecha": {
+   "$date": "2026-11-19T22:38:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 24.6,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 29,
+  "id_parcela": 29,
+  "fecha": {
+   "$date": "2026-11-10T23:13:00Z"
+  },
+  "tipo_alerta": "temperatura_baja",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 11.7,
+  "umbral_configurado": 12,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-12T21:13:00Z"
+  },
+  "id_trabajador_atencion": 38,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 30,
+  "id_parcela": 30,
+  "fecha": {
+   "$date": "2026-11-15T22:54:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 30.2,
+  "umbral_configurado": 30,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-16T22:54:00Z"
+  },
+  "id_trabajador_atencion": 27,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 31,
+  "id_parcela": 31,
+  "fecha": {
+   "$date": "2026-11-12T17:50:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 18.9,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-13T21:50:00Z"
+  },
+  "id_trabajador_atencion": 11,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 31,
+  "id_parcela": 31,
+  "fecha": {
+   "$date": "2026-11-13T17:25:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 14.8,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-14T01:25:00Z"
+  },
+  "id_trabajador_atencion": 11,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 31,
+  "id_parcela": 31,
+  "fecha": {
+   "$date": "2026-11-20T09:45:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 16.2,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 32,
+  "id_parcela": 32,
+  "fecha": {
+   "$date": "2026-10-11T18:45:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 24.3,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 32,
+  "id_parcela": 32,
+  "fecha": {
+   "$date": "2026-10-28T17:57:00Z"
+  },
+  "tipo_alerta": "sensor_sin_senal",
+  "severidad": "media",
+  "descripcion": "El sensor dejo de reportar lecturas.",
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-10-30T04:57:00Z"
+  },
+  "id_trabajador_atencion": 11,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 33,
+  "id_parcela": 33,
+  "fecha": {
+   "$date": "2026-11-11T03:28:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 30.8,
+  "umbral_configurado": 30,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-12T20:28:00Z"
+  },
+  "id_trabajador_atencion": 18,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 33,
+  "id_parcela": 33,
+  "fecha": {
+   "$date": "2026-11-12T14:22:00Z"
+  },
+  "tipo_alerta": "temperatura_alta",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 30.8,
+  "umbral_configurado": 30,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-13T10:22:00Z"
+  },
+  "id_trabajador_atencion": 27,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha": {
+   "$date": "2026-11-11T04:16:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 17.6,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-12T09:16:00Z"
+  },
+  "id_trabajador_atencion": 37,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha": {
+   "$date": "2026-11-14T11:46:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 21.5,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-15T11:46:00Z"
+  },
+  "id_trabajador_atencion": 5,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha": {
+   "$date": "2026-11-14T22:39:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "baja",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 24.4,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-15T02:39:00Z"
+  },
+  "id_trabajador_atencion": 37,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha": {
+   "$date": "2026-11-16T01:20:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 19.6,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-16T07:20:00Z"
+  },
+  "id_trabajador_atencion": 11,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 35,
+  "id_parcela": 35,
+  "fecha": {
+   "$date": "2026-11-09T19:40:00Z"
+  },
+  "tipo_alerta": "temperatura_baja",
+  "severidad": "baja",
+  "descripcion": "Temperatura ambiental por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 11.5,
+  "umbral_configurado": 12,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-09T23:40:00Z"
+  },
+  "id_trabajador_atencion": 9,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 36,
+  "id_parcela": 5,
+  "fecha": {
+   "$date": "2026-11-10T03:54:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 12.7,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-11T20:54:00Z"
+  },
+  "id_trabajador_atencion": 9,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 36,
+  "id_parcela": 5,
+  "fecha": {
+   "$date": "2026-11-20T02:26:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 12.7,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 36,
+  "id_parcela": 5,
+  "fecha": {
+   "$date": "2026-11-22T10:27:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 19.7,
+  "umbral_configurado": 25,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 40,
+  "id_parcela": 19,
+  "fecha": {
+   "$date": "2026-11-11T08:38:00Z"
+  },
+  "tipo_alerta": "humedad_alta",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por encima del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 62.6,
+  "umbral_configurado": 55,
+  "atendida": false,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 40,
+  "id_parcela": 19,
+  "fecha": {
+   "$date": "2026-11-14T09:31:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "alta",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 15.2,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-15T07:31:00Z"
+  },
+  "id_trabajador_atencion": 11,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 40,
+  "id_parcela": 19,
+  "fecha": {
+   "$date": "2026-11-18T18:13:00Z"
+  },
+  "tipo_alerta": "humedad_baja",
+  "severidad": "media",
+  "descripcion": "Humedad del suelo por debajo del umbral configurado (valor de ejemplo).",
+  "valor_detectado": 21.1,
+  "umbral_configurado": 25,
+  "atendida": true,
+  "fecha_atencion": {
+   "$date": "2026-11-20T01:13:00Z"
+  },
+  "id_trabajador_atencion": 9,
+  "origen": "sintetico"
+ }
+]

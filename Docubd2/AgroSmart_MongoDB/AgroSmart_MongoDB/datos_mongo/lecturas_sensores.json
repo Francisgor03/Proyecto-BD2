@@ -1,0 +1,3917 @@
+[
+ {
+  "id_sensor": 1,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-10T23:47:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.2,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 1,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-11T09:23:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 25.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 1,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-13T22:04:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 31.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 97,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 1,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-16T06:06:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 24.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 1,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-20T16:44:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 28.2,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 44,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 1,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-20T22:09:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 72,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 2,
+  "id_parcela": 2,
+  "fecha_registro": {
+   "$date": "2026-11-09T02:24:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 26.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 99,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 2,
+  "id_parcela": 2,
+  "fecha_registro": {
+   "$date": "2026-11-11T22:04:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 35.9,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 2,
+  "id_parcela": 2,
+  "fecha_registro": {
+   "$date": "2026-11-15T11:32:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 35.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 2,
+  "id_parcela": 2,
+  "fecha_registro": {
+   "$date": "2026-11-16T00:00:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 28.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 2,
+  "id_parcela": 2,
+  "fecha_registro": {
+   "$date": "2026-11-17T10:52:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 23.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 2,
+  "id_parcela": 2,
+  "fecha_registro": {
+   "$date": "2026-11-19T14:28:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 31.3,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 48,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 3,
+  "id_parcela": 3,
+  "fecha_registro": {
+   "$date": "2026-11-11T11:04:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 16.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 86,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 3,
+  "id_parcela": 3,
+  "fecha_registro": {
+   "$date": "2026-11-11T22:57:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 23.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 99,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 3,
+  "id_parcela": 3,
+  "fecha_registro": {
+   "$date": "2026-11-14T01:21:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 20.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 69,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 3,
+  "id_parcela": 3,
+  "fecha_registro": {
+   "$date": "2026-11-18T22:08:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 35.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 3,
+  "id_parcela": 3,
+  "fecha_registro": {
+   "$date": "2026-11-19T21:49:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 24.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 94,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 3,
+  "id_parcela": 3,
+  "fecha_registro": {
+   "$date": "2026-11-20T04:51:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 20.9,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 4,
+  "id_parcela": 4,
+  "fecha_registro": {
+   "$date": "2026-11-09T07:35:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 15.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 58,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 4,
+  "id_parcela": 4,
+  "fecha_registro": {
+   "$date": "2026-11-15T12:58:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 13.2,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 4,
+  "id_parcela": 4,
+  "fecha_registro": {
+   "$date": "2026-11-16T04:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 16.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 47,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 4,
+  "id_parcela": 4,
+  "fecha_registro": {
+   "$date": "2026-11-19T00:57:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 17.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 4,
+  "id_parcela": 4,
+  "fecha_registro": {
+   "$date": "2026-11-19T14:36:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 33.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 4,
+  "id_parcela": 4,
+  "fecha_registro": {
+   "$date": "2026-11-22T00:57:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.7,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 40,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 5,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-08T14:59:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 47.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 5,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-12T06:09:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 34.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 51,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 5,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-15T00:26:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 48.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 55,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 5,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-16T02:35:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 36.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 5,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-17T04:06:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 42.3,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 5,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-21T18:19:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 36.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 36,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 6,
+  "id_parcela": 6,
+  "fecha_registro": {
+   "$date": "2026-11-09T17:55:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 50.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 50,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 6,
+  "id_parcela": 6,
+  "fecha_registro": {
+   "$date": "2026-11-10T06:46:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 45.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 56,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 6,
+  "id_parcela": 6,
+  "fecha_registro": {
+   "$date": "2026-11-11T01:49:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 48.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 64,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 6,
+  "id_parcela": 6,
+  "fecha_registro": {
+   "$date": "2026-11-16T22:09:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 49.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 86,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 6,
+  "id_parcela": 6,
+  "fecha_registro": {
+   "$date": "2026-11-17T01:52:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 51.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 41,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 6,
+  "id_parcela": 6,
+  "fecha_registro": {
+   "$date": "2026-11-17T22:48:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 46.1,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 7,
+  "id_parcela": 7,
+  "fecha_registro": {
+   "$date": "2026-11-08T23:55:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 24.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 89,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 7,
+  "id_parcela": 7,
+  "fecha_registro": {
+   "$date": "2026-11-11T15:13:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 7,
+  "id_parcela": 7,
+  "fecha_registro": {
+   "$date": "2026-11-13T01:49:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 88,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 7,
+  "id_parcela": 7,
+  "fecha_registro": {
+   "$date": "2026-11-13T19:24:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 23.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 96,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 7,
+  "id_parcela": 7,
+  "fecha_registro": {
+   "$date": "2026-11-20T05:51:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 47,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 7,
+  "id_parcela": 7,
+  "fecha_registro": {
+   "$date": "2026-11-21T08:42:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 23.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 46,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 8,
+  "id_parcela": 8,
+  "fecha_registro": {
+   "$date": "2026-11-09T03:50:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 25.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 70,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 8,
+  "id_parcela": 8,
+  "fecha_registro": {
+   "$date": "2026-11-12T22:17:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 29.3,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 62,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 8,
+  "id_parcela": 8,
+  "fecha_registro": {
+   "$date": "2026-11-16T12:29:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 25.9,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 68,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 8,
+  "id_parcela": 8,
+  "fecha_registro": {
+   "$date": "2026-11-18T09:40:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 11.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 80,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 8,
+  "id_parcela": 8,
+  "fecha_registro": {
+   "$date": "2026-11-19T12:32:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 27.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 8,
+  "id_parcela": 8,
+  "fecha_registro": {
+   "$date": "2026-11-21T17:31:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 27.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 68,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 9,
+  "id_parcela": 9,
+  "fecha_registro": {
+   "$date": "2026-11-08T20:04:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 23.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 9,
+  "id_parcela": 9,
+  "fecha_registro": {
+   "$date": "2026-11-10T00:37:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 49.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 9,
+  "id_parcela": 9,
+  "fecha_registro": {
+   "$date": "2026-11-14T17:12:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 50.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 89,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 9,
+  "id_parcela": 9,
+  "fecha_registro": {
+   "$date": "2026-11-14T17:44:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 46.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 9,
+  "id_parcela": 9,
+  "fecha_registro": {
+   "$date": "2026-11-18T11:47:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 41.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 9,
+  "id_parcela": 9,
+  "fecha_registro": {
+   "$date": "2026-11-18T13:28:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 36.1,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 10,
+  "id_parcela": 10,
+  "fecha_registro": {
+   "$date": "2026-11-09T01:47:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 31.2,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 27.2,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 10,
+  "id_parcela": 10,
+  "fecha_registro": {
+   "$date": "2026-11-09T21:34:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 26.0,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 27.9,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 50,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 10,
+  "id_parcela": 10,
+  "fecha_registro": {
+   "$date": "2026-11-15T07:56:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 32.3,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 29.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 38,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 10,
+  "id_parcela": 10,
+  "fecha_registro": {
+   "$date": "2026-11-16T12:33:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 28.1,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 29.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 10,
+  "id_parcela": 10,
+  "fecha_registro": {
+   "$date": "2026-11-17T03:34:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 25.9,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 9.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 67,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 10,
+  "id_parcela": 10,
+  "fecha_registro": {
+   "$date": "2026-11-19T02:25:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 30.5,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 28.9,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 11,
+  "id_parcela": 11,
+  "fecha_registro": {
+   "$date": "2026-11-09T10:08:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 64.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 42,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 11,
+  "id_parcela": 11,
+  "fecha_registro": {
+   "$date": "2026-11-10T16:06:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 41.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 11,
+  "id_parcela": 11,
+  "fecha_registro": {
+   "$date": "2026-11-11T20:46:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 51.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 11,
+  "id_parcela": 11,
+  "fecha_registro": {
+   "$date": "2026-11-12T20:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 37.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 70,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 11,
+  "id_parcela": 11,
+  "fecha_registro": {
+   "$date": "2026-11-20T23:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 40.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 95,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 11,
+  "id_parcela": 11,
+  "fecha_registro": {
+   "$date": "2026-11-21T22:08:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 44.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 74,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 12,
+  "id_parcela": 12,
+  "fecha_registro": {
+   "$date": "2026-10-05T08:12:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 36.1,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 12,
+  "id_parcela": 12,
+  "fecha_registro": {
+   "$date": "2026-10-06T01:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 24.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 45,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 12,
+  "id_parcela": 12,
+  "fecha_registro": {
+   "$date": "2026-10-11T11:09:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 32.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 62,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 13,
+  "id_parcela": 13,
+  "fecha_registro": {
+   "$date": "2026-10-10T17:42:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 51.4,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 7.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 40,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 13,
+  "id_parcela": 13,
+  "fecha_registro": {
+   "$date": "2026-10-11T01:05:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 50.2,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.9,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 13,
+  "id_parcela": 13,
+  "fecha_registro": {
+   "$date": "2026-10-14T13:58:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 51.2,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.7,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 89,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 14,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-09T05:11:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 35.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 35,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 14,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-12T15:32:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 36.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 66,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 14,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-12T20:38:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 62.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 14,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-16T03:18:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 30.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 14,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-21T00:42:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 21.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 93,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 14,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-21T13:02:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 34.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 15,
+  "id_parcela": 15,
+  "fecha_registro": {
+   "$date": "2026-11-12T14:03:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 15,
+  "id_parcela": 15,
+  "fecha_registro": {
+   "$date": "2026-11-13T23:40:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.9,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 15,
+  "id_parcela": 15,
+  "fecha_registro": {
+   "$date": "2026-11-14T22:33:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 18.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 79,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 15,
+  "id_parcela": 15,
+  "fecha_registro": {
+   "$date": "2026-11-16T01:46:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 20.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 62,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 15,
+  "id_parcela": 15,
+  "fecha_registro": {
+   "$date": "2026-11-16T09:19:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 18.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 15,
+  "id_parcela": 15,
+  "fecha_registro": {
+   "$date": "2026-11-19T00:00:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 16,
+  "id_parcela": 16,
+  "fecha_registro": {
+   "$date": "2026-11-12T00:40:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 35.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 50,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 16,
+  "id_parcela": 16,
+  "fecha_registro": {
+   "$date": "2026-11-14T21:34:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 37.1,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 77,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 16,
+  "id_parcela": 16,
+  "fecha_registro": {
+   "$date": "2026-11-14T23:13:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 44.3,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 98,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 16,
+  "id_parcela": 16,
+  "fecha_registro": {
+   "$date": "2026-11-16T06:26:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 45.9,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 61,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 16,
+  "id_parcela": 16,
+  "fecha_registro": {
+   "$date": "2026-11-19T06:54:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 32.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 42,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 16,
+  "id_parcela": 16,
+  "fecha_registro": {
+   "$date": "2026-11-21T17:33:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 13.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 88,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 17,
+  "id_parcela": 17,
+  "fecha_registro": {
+   "$date": "2026-11-08T18:50:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.7,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 61,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 17,
+  "id_parcela": 17,
+  "fecha_registro": {
+   "$date": "2026-11-09T09:50:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 25.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 59,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 17,
+  "id_parcela": 17,
+  "fecha_registro": {
+   "$date": "2026-11-13T20:05:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.7,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 47,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 17,
+  "id_parcela": 17,
+  "fecha_registro": {
+   "$date": "2026-11-16T17:20:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 28.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 56,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 17,
+  "id_parcela": 17,
+  "fecha_registro": {
+   "$date": "2026-11-20T01:15:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 30.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 88,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 17,
+  "id_parcela": 17,
+  "fecha_registro": {
+   "$date": "2026-11-20T05:19:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 32.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 100,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 18,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-16T05:08:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 23.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 97,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 18,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-16T18:48:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 29.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 86,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 18,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-16T20:08:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 38.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 87,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 18,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-16T22:22:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 34.9,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 73,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 18,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-19T22:14:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 23.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 100,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 18,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-20T03:26:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 24.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 44,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 19,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-11T01:57:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 16.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 19,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-12T17:33:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 22.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 85,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 19,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-14T17:59:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 36.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 54,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 19,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-17T19:00:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 44.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 42,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 19,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-21T03:14:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 41.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 19,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-21T07:34:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 43.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 80,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 20,
+  "id_parcela": 20,
+  "fecha_registro": {
+   "$date": "2026-11-09T19:14:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 43.1,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 20,
+  "id_parcela": 20,
+  "fecha_registro": {
+   "$date": "2026-11-11T14:33:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 43.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 20,
+  "id_parcela": 20,
+  "fecha_registro": {
+   "$date": "2026-11-12T14:02:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 15.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 20,
+  "id_parcela": 20,
+  "fecha_registro": {
+   "$date": "2026-11-13T00:08:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 37.3,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 20,
+  "id_parcela": 20,
+  "fecha_registro": {
+   "$date": "2026-11-13T00:41:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 39.3,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 20,
+  "id_parcela": 20,
+  "fecha_registro": {
+   "$date": "2026-11-19T14:23:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 38.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 21,
+  "id_parcela": 21,
+  "fecha_registro": {
+   "$date": "2026-11-10T16:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 29.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 89,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 21,
+  "id_parcela": 21,
+  "fecha_registro": {
+   "$date": "2026-11-12T15:25:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 28.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 74,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 21,
+  "id_parcela": 21,
+  "fecha_registro": {
+   "$date": "2026-11-13T08:10:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 25.9,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 96,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 21,
+  "id_parcela": 21,
+  "fecha_registro": {
+   "$date": "2026-11-14T08:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 33.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 45,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 21,
+  "id_parcela": 21,
+  "fecha_registro": {
+   "$date": "2026-11-18T18:19:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 31.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 61,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 21,
+  "id_parcela": 21,
+  "fecha_registro": {
+   "$date": "2026-11-19T00:19:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 35.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 22,
+  "id_parcela": 22,
+  "fecha_registro": {
+   "$date": "2026-10-08T11:15:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 26.7,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 24.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 22,
+  "id_parcela": 22,
+  "fecha_registro": {
+   "$date": "2026-10-10T08:45:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 19.3,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 25.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 76,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 22,
+  "id_parcela": 22,
+  "fecha_registro": {
+   "$date": "2026-10-11T04:01:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 23.2,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 25.2,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 23,
+  "id_parcela": 23,
+  "fecha_registro": {
+   "$date": "2026-11-09T09:41:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 47.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 93,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 23,
+  "id_parcela": 23,
+  "fecha_registro": {
+   "$date": "2026-11-09T12:23:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 10.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 56,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 23,
+  "id_parcela": 23,
+  "fecha_registro": {
+   "$date": "2026-11-10T04:55:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 40.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 23,
+  "id_parcela": 23,
+  "fecha_registro": {
+   "$date": "2026-11-10T10:55:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 68.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 23,
+  "id_parcela": 23,
+  "fecha_registro": {
+   "$date": "2026-11-15T16:52:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 47.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 23,
+  "id_parcela": 23,
+  "fecha_registro": {
+   "$date": "2026-11-21T07:22:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 42.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 24,
+  "id_parcela": 24,
+  "fecha_registro": {
+   "$date": "2026-11-09T12:02:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 15.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 37,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 24,
+  "id_parcela": 24,
+  "fecha_registro": {
+   "$date": "2026-11-12T23:21:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 15.7,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 52,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 24,
+  "id_parcela": 24,
+  "fecha_registro": {
+   "$date": "2026-11-14T13:10:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 17.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 24,
+  "id_parcela": 24,
+  "fecha_registro": {
+   "$date": "2026-11-18T16:00:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 15.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 80,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 24,
+  "id_parcela": 24,
+  "fecha_registro": {
+   "$date": "2026-11-19T03:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 50,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 24,
+  "id_parcela": 24,
+  "fecha_registro": {
+   "$date": "2026-11-20T08:50:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 13.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 93,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 25,
+  "id_parcela": 25,
+  "fecha_registro": {
+   "$date": "2026-11-08T15:21:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 25.9,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 17.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 39,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 25,
+  "id_parcela": 25,
+  "fecha_registro": {
+   "$date": "2026-11-11T01:33:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 32.8,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 25,
+  "id_parcela": 25,
+  "fecha_registro": {
+   "$date": "2026-11-11T04:41:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 21.8,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 100,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 25,
+  "id_parcela": 25,
+  "fecha_registro": {
+   "$date": "2026-11-18T05:33:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 32.2,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 32.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 40,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 25,
+  "id_parcela": 25,
+  "fecha_registro": {
+   "$date": "2026-11-18T08:09:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 29.1,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 16.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 65,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 25,
+  "id_parcela": 25,
+  "fecha_registro": {
+   "$date": "2026-11-18T14:17:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 26.4,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 18.9,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 66,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 26,
+  "id_parcela": 26,
+  "fecha_registro": {
+   "$date": "2026-11-08T20:48:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 24.9,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 60,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 26,
+  "id_parcela": 26,
+  "fecha_registro": {
+   "$date": "2026-11-09T06:19:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 56,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 26,
+  "id_parcela": 26,
+  "fecha_registro": {
+   "$date": "2026-11-10T16:03:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 24.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 44,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 26,
+  "id_parcela": 26,
+  "fecha_registro": {
+   "$date": "2026-11-17T20:45:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 24.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 26,
+  "id_parcela": 26,
+  "fecha_registro": {
+   "$date": "2026-11-18T12:53:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 26,
+  "id_parcela": 26,
+  "fecha_registro": {
+   "$date": "2026-11-21T23:49:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 20.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 98,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 27,
+  "id_parcela": 27,
+  "fecha_registro": {
+   "$date": "2026-11-08T12:52:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 46.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 100,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 27,
+  "id_parcela": 27,
+  "fecha_registro": {
+   "$date": "2026-11-10T16:11:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 47.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 67,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 27,
+  "id_parcela": 27,
+  "fecha_registro": {
+   "$date": "2026-11-11T07:12:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 44.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 66,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 27,
+  "id_parcela": 27,
+  "fecha_registro": {
+   "$date": "2026-11-11T20:47:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 51.5,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 27,
+  "id_parcela": 27,
+  "fecha_registro": {
+   "$date": "2026-11-17T17:05:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 42.9,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 27,
+  "id_parcela": 27,
+  "fecha_registro": {
+   "$date": "2026-11-21T20:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 46.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 93,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 28,
+  "id_parcela": 28,
+  "fecha_registro": {
+   "$date": "2026-11-10T20:33:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 26.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 87,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 28,
+  "id_parcela": 28,
+  "fecha_registro": {
+   "$date": "2026-11-12T08:42:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 27.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 28,
+  "id_parcela": 28,
+  "fecha_registro": {
+   "$date": "2026-11-14T09:21:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 26.1,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 91,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 28,
+  "id_parcela": 28,
+  "fecha_registro": {
+   "$date": "2026-11-19T22:38:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 24.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 43,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 28,
+  "id_parcela": 28,
+  "fecha_registro": {
+   "$date": "2026-11-20T02:31:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 25.3,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 91,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 28,
+  "id_parcela": 28,
+  "fecha_registro": {
+   "$date": "2026-11-20T16:47:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 25.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 29,
+  "id_parcela": 29,
+  "fecha_registro": {
+   "$date": "2026-11-10T23:13:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 11.7,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 86,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 29,
+  "id_parcela": 29,
+  "fecha_registro": {
+   "$date": "2026-11-12T13:57:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 14.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 77,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 29,
+  "id_parcela": 29,
+  "fecha_registro": {
+   "$date": "2026-11-15T16:41:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 20.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 73,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 29,
+  "id_parcela": 29,
+  "fecha_registro": {
+   "$date": "2026-11-16T02:25:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 92,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 29,
+  "id_parcela": 29,
+  "fecha_registro": {
+   "$date": "2026-11-18T11:05:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 14.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 39,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 29,
+  "id_parcela": 29,
+  "fecha_registro": {
+   "$date": "2026-11-19T21:30:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 16.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 30,
+  "id_parcela": 30,
+  "fecha_registro": {
+   "$date": "2026-11-09T22:28:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 87,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 30,
+  "id_parcela": 30,
+  "fecha_registro": {
+   "$date": "2026-11-11T12:50:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 27.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 30,
+  "id_parcela": 30,
+  "fecha_registro": {
+   "$date": "2026-11-15T22:54:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 30.2,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 99,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 30,
+  "id_parcela": 30,
+  "fecha_registro": {
+   "$date": "2026-11-17T14:32:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 26.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 81,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 30,
+  "id_parcela": 30,
+  "fecha_registro": {
+   "$date": "2026-11-19T07:07:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 26.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 30,
+  "id_parcela": 30,
+  "fecha_registro": {
+   "$date": "2026-11-20T13:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 24.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 31,
+  "id_parcela": 31,
+  "fecha_registro": {
+   "$date": "2026-11-09T04:58:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 35.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 59,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 31,
+  "id_parcela": 31,
+  "fecha_registro": {
+   "$date": "2026-11-11T02:19:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 33.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 85,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 31,
+  "id_parcela": 31,
+  "fecha_registro": {
+   "$date": "2026-11-12T17:50:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 18.9,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 31,
+  "id_parcela": 31,
+  "fecha_registro": {
+   "$date": "2026-11-13T17:25:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 14.8,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 87,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 31,
+  "id_parcela": 31,
+  "fecha_registro": {
+   "$date": "2026-11-14T05:33:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 47.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 97,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 31,
+  "id_parcela": 31,
+  "fecha_registro": {
+   "$date": "2026-11-20T09:45:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 16.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 32,
+  "id_parcela": 32,
+  "fecha_registro": {
+   "$date": "2026-10-04T16:16:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 28.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 32,
+  "id_parcela": 32,
+  "fecha_registro": {
+   "$date": "2026-10-11T18:45:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 24.3,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 32,
+  "id_parcela": 32,
+  "fecha_registro": {
+   "$date": "2026-10-14T20:50:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 26.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 43,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 33,
+  "id_parcela": 33,
+  "fecha_registro": {
+   "$date": "2026-11-08T18:23:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 26.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 81,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 33,
+  "id_parcela": 33,
+  "fecha_registro": {
+   "$date": "2026-11-11T03:28:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 30.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 45,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 33,
+  "id_parcela": 33,
+  "fecha_registro": {
+   "$date": "2026-11-11T22:30:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 24.2,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 58,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 33,
+  "id_parcela": 33,
+  "fecha_registro": {
+   "$date": "2026-11-12T14:22:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 30.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 67,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 33,
+  "id_parcela": 33,
+  "fecha_registro": {
+   "$date": "2026-11-16T23:56:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 25.9,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 33,
+  "id_parcela": 33,
+  "fecha_registro": {
+   "$date": "2026-11-18T19:21:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.3,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 80,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha_registro": {
+   "$date": "2026-11-11T04:16:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 17.6,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 16.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 78,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha_registro": {
+   "$date": "2026-11-14T11:46:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 21.5,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.2,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 76,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha_registro": {
+   "$date": "2026-11-14T22:39:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 24.4,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 16.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 81,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha_registro": {
+   "$date": "2026-11-15T23:59:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 31.8,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 77,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha_registro": {
+   "$date": "2026-11-16T01:20:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 19.6,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 61,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 34,
+  "id_parcela": 34,
+  "fecha_registro": {
+   "$date": "2026-11-21T01:17:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 27.5,
+    "unidad": "%"
+   },
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 48,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 35,
+  "id_parcela": 35,
+  "fecha_registro": {
+   "$date": "2026-11-09T19:40:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 11.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 35,
+  "id_parcela": 35,
+  "fecha_registro": {
+   "$date": "2026-11-11T02:58:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 18.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 35,
+  "id_parcela": 35,
+  "fecha_registro": {
+   "$date": "2026-11-11T13:56:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 18.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 82,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 35,
+  "id_parcela": 35,
+  "fecha_registro": {
+   "$date": "2026-11-15T12:24:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 14.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 35,
+  "id_parcela": 35,
+  "fecha_registro": {
+   "$date": "2026-11-21T00:41:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 13.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 56,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 35,
+  "id_parcela": 35,
+  "fecha_registro": {
+   "$date": "2026-11-21T12:34:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 36,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-10T03:54:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 12.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 36,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-18T12:20:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 38.0,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 72,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 36,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-19T04:57:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 40.3,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 85,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 36,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-19T12:07:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 38.4,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 36,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-20T02:26:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 12.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 73,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 36,
+  "id_parcela": 5,
+  "fecha_registro": {
+   "$date": "2026-11-22T10:27:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 19.7,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 79,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 37,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-11T20:12:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 18.7,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 37,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-12T03:11:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 52,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 37,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-12T15:30:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 79,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 37,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-13T05:07:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 19.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 70,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 37,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-14T14:49:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 15.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 93,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 37,
+  "id_parcela": 18,
+  "fecha_registro": {
+   "$date": "2026-11-21T21:44:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 38,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-11T00:12:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 18.1,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 38,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-11T11:58:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 26.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 90,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 38,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-13T13:04:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 38,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 38,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-14T18:32:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 75,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 38,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-15T22:48:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.6,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 77,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 38,
+  "id_parcela": 14,
+  "fecha_registro": {
+   "$date": "2026-11-18T13:23:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 21.7,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 40,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 39,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-10T00:17:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 18.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 79,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 39,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-17T04:29:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.8,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 45,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 39,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-18T21:52:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 17.0,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 41,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 39,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-20T08:37:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 16.5,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 53,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 39,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-20T10:47:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 22.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 39,
+  "id_parcela": 1,
+  "fecha_registro": {
+   "$date": "2026-11-22T11:25:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "temperatura_ambiente",
+    "valor": 18.4,
+    "unidad": "°C"
+   }
+  ],
+  "estado": "normal",
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 40,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-11T08:38:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 62.6,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 51,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 40,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-13T12:56:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 29.9,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 74,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 40,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-13T23:23:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 30.1,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 60,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 40,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-14T09:31:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 15.2,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "bateria_pct": 97,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 40,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-14T21:54:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 29.1,
+    "unidad": "%"
+   }
+  ],
+  "estado": "normal",
+  "bateria_pct": 46,
+  "origen": "sintetico"
+ },
+ {
+  "id_sensor": 40,
+  "id_parcela": 19,
+  "fecha_registro": {
+   "$date": "2026-11-18T18:13:00Z"
+  },
+  "mediciones": [
+   {
+    "tipo": "humedad_suelo",
+    "valor": 21.1,
+    "unidad": "%"
+   }
+  ],
+  "estado": "alerta",
+  "origen": "sintetico"
+ }
+]

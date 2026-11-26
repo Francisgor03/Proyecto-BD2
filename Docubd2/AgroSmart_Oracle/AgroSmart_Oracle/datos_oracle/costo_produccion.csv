@@ -1,0 +1,92 @@
+id_costo,id_campania,concepto,descripcion,monto,fecha_registro
+1,1,MANO_OBRA,Pago de jornales,2796.8,2025-05-24
+2,1,MAQUINARIA,Uso de maquinaria agricola,2580.9,2025-03-15
+3,1,ALQUILER,Alquiler de equipos,602.34,2025-03-27
+4,2,TRANSPORTE,Transporte de insumos o cosecha,2781.75,2025-08-29
+5,2,MANO_OBRA,Pago de jornales,7545.6,2025-09-02
+6,2,ALQUILER,Alquiler de equipos,1962.24,2025-05-24
+7,3,TRANSPORTE,Transporte de insumos o cosecha,2129.09,2025-05-31
+8,3,ALQUILER,Alquiler de equipos,927.35,2025-05-28
+9,3,RIEGO,Costo de agua y energia de riego,4286.55,2025-03-21
+10,4,RIEGO,Costo de agua y energia de riego,4246.78,2025-06-10
+11,4,OTROS,Gastos varios de campo,1742.26,2025-05-16
+12,4,TRANSPORTE,Transporte de insumos o cosecha,1890.27,2025-05-17
+13,4,MANO_OBRA,Pago de jornales,4919.44,2025-07-04
+14,5,RIEGO,Costo de agua y energia de riego,4342.49,2025-06-18
+15,5,ALQUILER,Alquiler de equipos,3685.48,2025-09-24
+16,6,OTROS,Gastos varios de campo,1229.93,2026-02-03
+17,6,TRANSPORTE,Transporte de insumos o cosecha,1236.29,2026-01-27
+18,7,TRANSPORTE,Transporte de insumos o cosecha,3394.67,2026-09-07
+19,7,OTROS,Gastos varios de campo,2057.9,2026-08-21
+20,8,TRANSPORTE,Transporte de insumos o cosecha,3458.51,2026-06-25
+21,8,OTROS,Gastos varios de campo,1496.26,2026-05-25
+22,8,RIEGO,Costo de agua y energia de riego,1497.57,2026-04-28
+23,9,MAQUINARIA,Uso de maquinaria agricola,4369.11,2025-08-30
+24,9,MANO_OBRA,Pago de jornales,8456.87,2025-08-16
+25,11,RIEGO,Costo de agua y energia de riego,4127.51,2026-11-07
+26,11,TRANSPORTE,Transporte de insumos o cosecha,1505.37,2026-10-21
+27,11,MAQUINARIA,Uso de maquinaria agricola,4893.85,2026-10-22
+28,11,MANO_OBRA,Pago de jornales,7212.65,2026-11-20
+29,12,MANO_OBRA,Pago de jornales,8984.29,2025-06-09
+30,12,ALQUILER,Alquiler de equipos,2905.45,2025-07-24
+31,13,OTROS,Gastos varios de campo,164.83,2025-05-08
+32,13,RIEGO,Costo de agua y energia de riego,939.37,2025-04-04
+33,14,RIEGO,Costo de agua y energia de riego,4047.52,2025-07-14
+34,14,TRANSPORTE,Transporte de insumos o cosecha,345.79,2025-04-27
+35,14,MANO_OBRA,Pago de jornales,10622.68,2025-05-12
+36,14,MAQUINARIA,Uso de maquinaria agricola,5110.67,2025-08-05
+37,15,MAQUINARIA,Uso de maquinaria agricola,3158.89,2026-10-30
+38,15,MANO_OBRA,Pago de jornales,10992.27,2026-09-07
+39,17,RIEGO,Costo de agua y energia de riego,3823.61,2026-08-30
+40,17,OTROS,Gastos varios de campo,923.01,2026-09-03
+41,18,ALQUILER,Alquiler de equipos,2998.79,2026-07-24
+42,18,MAQUINARIA,Uso de maquinaria agricola,8892.3,2026-10-03
+43,18,TRANSPORTE,Transporte de insumos o cosecha,1935.71,2026-07-10
+44,19,TRANSPORTE,Transporte de insumos o cosecha,515.17,2026-10-30
+45,19,MANO_OBRA,Pago de jornales,7841.36,2026-10-01
+46,19,RIEGO,Costo de agua y energia de riego,740.92,2026-11-15
+47,21,TRANSPORTE,Transporte de insumos o cosecha,338.14,2025-05-06
+48,21,MANO_OBRA,Pago de jornales,2234.83,2025-11-15
+49,21,OTROS,Gastos varios de campo,1071.03,2025-08-30
+50,22,ALQUILER,Alquiler de equipos,3634.86,2026-07-27
+51,23,RIEGO,Costo de agua y energia de riego,1689.42,2025-11-08
+52,23,OTROS,Gastos varios de campo,2190.56,2025-12-08
+53,23,TRANSPORTE,Transporte de insumos o cosecha,1257.87,2025-10-18
+54,25,OTROS,Gastos varios de campo,386.03,2026-06-28
+55,25,MAQUINARIA,Uso de maquinaria agricola,4204.83,2026-10-17
+56,26,OTROS,Gastos varios de campo,274.24,2025-04-06
+57,26,TRANSPORTE,Transporte de insumos o cosecha,757.86,2025-06-20
+58,27,RIEGO,Costo de agua y energia de riego,641.72,2026-05-26
+59,27,MAQUINARIA,Uso de maquinaria agricola,5208.07,2025-12-22
+60,28,ALQUILER,Alquiler de equipos,1501.69,2026-03-10
+61,28,TRANSPORTE,Transporte de insumos o cosecha,557.44,2026-02-02
+62,28,MANO_OBRA,Pago de jornales,1268.04,2026-01-20
+63,28,OTROS,Gastos varios de campo,447.23,2026-04-13
+64,29,RIEGO,Costo de agua y energia de riego,1966.09,2026-09-02
+65,29,MANO_OBRA,Pago de jornales,820.82,2026-11-12
+66,31,MANO_OBRA,Pago de jornales,6755.97,2026-01-26
+67,31,MAQUINARIA,Uso de maquinaria agricola,5609.92,2026-02-24
+68,32,ALQUILER,Alquiler de equipos,1368.89,2025-07-25
+69,32,RIEGO,Costo de agua y energia de riego,4346.69,2025-09-22
+70,33,ALQUILER,Alquiler de equipos,3028.33,2026-09-25
+71,33,TRANSPORTE,Transporte de insumos o cosecha,2926.26,2026-11-03
+72,34,OTROS,Gastos varios de campo,2270.56,2026-06-18
+73,34,MANO_OBRA,Pago de jornales,2869.5,2026-07-10
+74,35,OTROS,Gastos varios de campo,2043.76,2026-06-28
+75,36,OTROS,Gastos varios de campo,2003.42,2026-06-29
+76,36,TRANSPORTE,Transporte de insumos o cosecha,1731.33,2026-04-20
+77,36,RIEGO,Costo de agua y energia de riego,516.64,2025-10-06
+78,36,ALQUILER,Alquiler de equipos,1630.47,2025-12-26
+79,37,TRANSPORTE,Transporte de insumos o cosecha,1146.69,2026-03-09
+80,37,ALQUILER,Alquiler de equipos,1247.05,2026-05-24
+81,37,MAQUINARIA,Uso de maquinaria agricola,4158.87,2026-02-17
+82,38,OTROS,Gastos varios de campo,712.27,2025-11-24
+83,38,RIEGO,Costo de agua y energia de riego,2389.56,2025-10-26
+84,38,TRANSPORTE,Transporte de insumos o cosecha,330.36,2025-12-20
+85,38,ALQUILER,Alquiler de equipos,3983.9,2025-12-09
+86,39,MANO_OBRA,Pago de jornales,5182.18,2025-10-01
+87,39,RIEGO,Costo de agua y energia de riego,3410.12,2025-12-14
+88,39,ALQUILER,Alquiler de equipos,378.31,2026-02-12
+89,40,MAQUINARIA,Uso de maquinaria agricola,5352.08,2026-04-04
+90,40,TRANSPORTE,Transporte de insumos o cosecha,1314.63,2026-07-24
+91,40,MANO_OBRA,Pago de jornales,8594.59,2026-07-05

@@ -1,0 +1,755 @@
+[
+ {
+  "id_parcela": 23,
+  "id_campania": 23,
+  "id_trabajador": 34,
+  "fecha_reporte": {
+   "$date": "2025-10-25T10:50:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "bajo",
+  "descripcion": "Humedad alta favorece aparicion de hongos en el follaje.",
+  "fotografias": [
+   "plaga_001_1.jpg",
+   "plaga_001_2.jpg"
+  ],
+  "estado": "en_atencion",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 7,
+  "id_campania": 7,
+  "id_trabajador": 26,
+  "fecha_reporte": {
+   "$date": "2026-10-01T15:40:00Z"
+  },
+  "tipo_plaga": "otros",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 5,
+  "descripcion": "Plantas con sintomas no identificados; se tomaran muestras.",
+  "fotografias": [
+   "plaga_002_1.jpg",
+   "plaga_002_2.jpg"
+  ],
+  "estado": "en_atencion",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 38,
+  "id_trabajador": 27,
+  "fecha_reporte": {
+   "$date": "2025-09-10T13:40:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "alto",
+  "descripcion": "Presencia de insectos en algunas plantas.",
+  "fotografias": [
+   "plaga_003_1.jpg",
+   "plaga_003_2.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 21,
+  "id_campania": 21,
+  "id_trabajador": 38,
+  "fecha_reporte": {
+   "$date": "2025-07-25T13:10:00Z"
+  },
+  "tipo_plaga": "otros",
+  "nivel_afectacion": "medio",
+  "descripcion": "Dano por causa no determinada en un sector.",
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha_reporte": {
+   "$date": "2026-01-11T10:40:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 5,
+  "descripcion": "Manchas en hojas asociadas a hongos.",
+  "fotografias": [
+   "plaga_005_1.jpg",
+   "plaga_005_2.jpg",
+   "plaga_005_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 5,
+  "id_campania": 40,
+  "id_trabajador": 39,
+  "fecha_reporte": {
+   "$date": "2026-05-11T17:30:00Z"
+  },
+  "tipo_plaga": "maleza",
+  "nivel_afectacion": "bajo",
+  "descripcion": "Crecimiento de maleza entre las hileras.",
+  "fotografias": [
+   "plaga_006_1.jpg",
+   "plaga_006_2.jpg"
+  ],
+  "estado": "pendiente",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 2,
+  "id_trabajador": 33,
+  "fecha_reporte": {
+   "$date": "2025-07-23T11:50:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "bajo",
+  "descripcion": "Manchas en hojas asociadas a hongos.",
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 21,
+  "id_campania": 21,
+  "id_trabajador": 34,
+  "fecha_reporte": {
+   "$date": "2025-03-20T15:45:00Z"
+  },
+  "tipo_plaga": "roedores",
+  "nivel_afectacion": "alto",
+  "descripcion": "Dano en plantas por roedores en el borde de la parcela.",
+  "estado": "pendiente",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 33,
+  "id_campania": 33,
+  "id_trabajador": 30,
+  "fecha_reporte": {
+   "$date": "2026-10-27T13:20:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "bajo",
+  "descripcion": "Dano leve por insectos en hojas jovenes.",
+  "estado": "en_atencion",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 34,
+  "id_campania": 34,
+  "id_trabajador": 5,
+  "fecha_reporte": {
+   "$date": "2026-08-13T13:50:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "alto",
+  "descripcion": "Humedad alta favorece aparicion de hongos en el follaje.",
+  "fotografias": [
+   "plaga_010_1.jpg",
+   "plaga_010_2.jpg",
+   "plaga_010_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 5,
+  "id_campania": 5,
+  "id_trabajador": 39,
+  "fecha_reporte": {
+   "$date": "2025-07-04T09:00:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 20,
+  "descripcion": "Presencia de insectos en algunas plantas.",
+  "fotografias": [
+   "plaga_011_1.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 35,
+  "id_campania": 35,
+  "id_trabajador": 31,
+  "fecha_reporte": {
+   "$date": "2026-06-29T17:50:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 25,
+  "descripcion": "Humedad alta favorece aparicion de hongos en el follaje.",
+  "fotografias": [
+   "plaga_012_1.jpg",
+   "plaga_012_2.jpg",
+   "plaga_012_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 8,
+  "id_campania": 8,
+  "id_trabajador": 35,
+  "fecha_reporte": {
+   "$date": "2026-08-08T16:50:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "alto",
+  "area_afectada_pct": 51,
+  "descripcion": "Humedad alta favorece aparicion de hongos en el follaje.",
+  "fotografias": [
+   "plaga_013_1.jpg",
+   "plaga_013_2.jpg",
+   "plaga_013_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 28,
+  "id_campania": 28,
+  "id_trabajador": 5,
+  "fecha_reporte": {
+   "$date": "2026-04-16T11:20:00Z"
+  },
+  "tipo_plaga": "otros",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 27,
+  "descripcion": "Dano por causa no determinada en un sector.",
+  "fotografias": [
+   "plaga_014_1.jpg",
+   "plaga_014_2.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha_reporte": {
+   "$date": "2026-02-07T11:30:00Z"
+  },
+  "tipo_plaga": "roedores",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 26,
+  "descripcion": "Rastros de roedores cerca del almacen de insumos.",
+  "fotografias": [
+   "plaga_015_1.jpg",
+   "plaga_015_2.jpg",
+   "plaga_015_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 3,
+  "id_trabajador": 31,
+  "fecha_reporte": {
+   "$date": "2025-06-26T10:15:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 14,
+  "descripcion": "Presencia de insectos en algunas plantas.",
+  "fotografias": [
+   "plaga_016_1.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 35,
+  "id_campania": 35,
+  "id_trabajador": 31,
+  "fecha_reporte": {
+   "$date": "2026-06-25T07:40:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 20,
+  "descripcion": "Humedad alta favorece aparicion de hongos en el follaje.",
+  "fotografias": [
+   "plaga_017_1.jpg",
+   "plaga_017_2.jpg"
+  ],
+  "estado": "en_atencion",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 6,
+  "id_campania": 6,
+  "id_trabajador": 1,
+  "fecha_reporte": {
+   "$date": "2025-11-15T08:45:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "medio",
+  "descripcion": "Manchas en hojas asociadas a hongos.",
+  "fotografias": [
+   "plaga_018_1.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 36,
+  "id_trabajador": 15,
+  "fecha_reporte": {
+   "$date": "2026-02-20T12:10:00Z"
+  },
+  "tipo_plaga": "otros",
+  "nivel_afectacion": "bajo",
+  "descripcion": "Plantas con sintomas no identificados; se tomaran muestras.",
+  "fotografias": [
+   "plaga_019_1.jpg",
+   "plaga_019_2.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 37,
+  "id_trabajador": 34,
+  "fecha_reporte": {
+   "$date": "2026-06-10T14:20:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 19,
+  "descripcion": "Humedad alta favorece aparicion de hongos en el follaje.",
+  "fotografias": [
+   "plaga_020_1.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 6,
+  "id_campania": 6,
+  "id_trabajador": 1,
+  "fecha_reporte": {
+   "$date": "2025-12-20T11:40:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "alto",
+  "area_afectada_pct": 44,
+  "descripcion": "Presencia de insectos en algunas plantas.",
+  "fotografias": [
+   "plaga_021_1.jpg",
+   "plaga_021_2.jpg",
+   "plaga_021_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 1,
+  "id_trabajador": 29,
+  "fecha_reporte": {
+   "$date": "2025-04-16T10:00:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 5,
+  "descripcion": "Manchas en hojas asociadas a hongos.",
+  "estado": "pendiente",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 15,
+  "id_campania": 15,
+  "id_trabajador": 26,
+  "fecha_reporte": {
+   "$date": "2026-09-26T12:10:00Z"
+  },
+  "tipo_plaga": "otros",
+  "nivel_afectacion": "medio",
+  "descripcion": "Plantas con sintomas no identificados; se tomaran muestras.",
+  "fotografias": [
+   "plaga_023_1.jpg",
+   "plaga_023_2.jpg"
+  ],
+  "estado": "en_atencion",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 26,
+  "id_campania": 26,
+  "id_trabajador": 22,
+  "fecha_reporte": {
+   "$date": "2025-10-02T11:30:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 30,
+  "descripcion": "Dano leve por insectos en hojas jovenes.",
+  "estado": "pendiente",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 28,
+  "id_campania": 28,
+  "id_trabajador": 5,
+  "fecha_reporte": {
+   "$date": "2026-02-21T07:30:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 7,
+  "descripcion": "Manchas en hojas asociadas a hongos.",
+  "fotografias": [
+   "plaga_025_1.jpg",
+   "plaga_025_2.jpg",
+   "plaga_025_3.jpg"
+  ],
+  "estado": "pendiente",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 26,
+  "id_campania": 26,
+  "id_trabajador": 22,
+  "fecha_reporte": {
+   "$date": "2025-11-06T10:40:00Z"
+  },
+  "tipo_plaga": "otros",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 12,
+  "descripcion": "Plantas con sintomas no identificados; se tomaran muestras.",
+  "fotografias": [
+   "plaga_026_1.jpg",
+   "plaga_026_2.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha_reporte": {
+   "$date": "2026-03-22T16:30:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "bajo",
+  "descripcion": "Manchas en hojas asociadas a hongos.",
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 3,
+  "id_trabajador": 31,
+  "fecha_reporte": {
+   "$date": "2025-05-09T08:30:00Z"
+  },
+  "tipo_plaga": "roedores",
+  "nivel_afectacion": "bajo",
+  "descripcion": "Dano en plantas por roedores en el borde de la parcela.",
+  "fotografias": [
+   "plaga_028_1.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 15,
+  "id_campania": 15,
+  "id_trabajador": 26,
+  "fecha_reporte": {
+   "$date": "2026-10-05T15:20:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 20,
+  "descripcion": "Dano leve por insectos en hojas jovenes.",
+  "estado": "en_atencion",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 4,
+  "id_campania": 39,
+  "id_trabajador": 14,
+  "fecha_reporte": {
+   "$date": "2025-10-31T10:20:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "bajo",
+  "descripcion": "Humedad alta favorece aparicion de hongos en el follaje.",
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 8,
+  "id_campania": 8,
+  "id_trabajador": 35,
+  "fecha_reporte": {
+   "$date": "2026-05-07T09:50:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 4,
+  "descripcion": "Dano leve por insectos en hojas jovenes.",
+  "fotografias": [
+   "plaga_031_1.jpg",
+   "plaga_031_2.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 23,
+  "id_campania": 23,
+  "id_trabajador": 34,
+  "fecha_reporte": {
+   "$date": "2025-11-25T12:10:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "alto",
+  "descripcion": "Humedad alta favorece aparicion de hongos en el follaje.",
+  "fotografias": [
+   "plaga_032_1.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 12,
+  "id_campania": 12,
+  "id_trabajador": 34,
+  "fecha_reporte": {
+   "$date": "2025-05-28T14:00:00Z"
+  },
+  "tipo_plaga": "maleza",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 4,
+  "descripcion": "Maleza compite con el cultivo en el sector oeste.",
+  "fotografias": [
+   "plaga_033_1.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 18,
+  "id_campania": 18,
+  "id_trabajador": 19,
+  "fecha_reporte": {
+   "$date": "2026-09-27T12:15:00Z"
+  },
+  "tipo_plaga": "roedores",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 9,
+  "descripcion": "Dano en plantas por roedores en el borde de la parcela.",
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 8,
+  "id_campania": 8,
+  "id_trabajador": 12,
+  "fecha_reporte": {
+   "$date": "2026-05-30T17:50:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 9,
+  "descripcion": "Manchas en hojas asociadas a hongos.",
+  "fotografias": [
+   "plaga_035_1.jpg",
+   "plaga_035_2.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 18,
+  "id_campania": 18,
+  "id_trabajador": 19,
+  "fecha_reporte": {
+   "$date": "2026-09-29T07:50:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 15,
+  "descripcion": "Dano leve por insectos en hojas jovenes.",
+  "fotografias": [
+   "plaga_036_1.jpg",
+   "plaga_036_2.jpg",
+   "plaga_036_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 32,
+  "id_campania": 32,
+  "id_trabajador": 22,
+  "fecha_reporte": {
+   "$date": "2025-12-03T11:40:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 9,
+  "descripcion": "Presencia de insectos en algunas plantas.",
+  "fotografias": [
+   "plaga_037_1.jpg",
+   "plaga_037_2.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 3,
+  "id_trabajador": 12,
+  "fecha_reporte": {
+   "$date": "2025-04-19T08:50:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 2,
+  "descripcion": "Dano leve por insectos en hojas jovenes.",
+  "fotografias": [
+   "plaga_038_1.jpg"
+  ],
+  "estado": "en_atencion",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha_reporte": {
+   "$date": "2026-03-18T14:45:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "medio",
+  "descripcion": "Manchas en hojas asociadas a hongos.",
+  "fotografias": [
+   "plaga_039_1.jpg",
+   "plaga_039_2.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 6,
+  "id_campania": 6,
+  "id_trabajador": 1,
+  "fecha_reporte": {
+   "$date": "2026-03-18T12:20:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "medio",
+  "descripcion": "Humedad alta favorece aparicion de hongos en el follaje.",
+  "fotografias": [
+   "plaga_040_1.jpg",
+   "plaga_040_2.jpg",
+   "plaga_040_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 7,
+  "id_campania": 7,
+  "id_trabajador": 26,
+  "fecha_reporte": {
+   "$date": "2026-09-06T08:50:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "bajo",
+  "area_afectada_pct": 7,
+  "descripcion": "Dano leve por insectos en hojas jovenes.",
+  "fotografias": [
+   "plaga_041_1.jpg",
+   "plaga_041_2.jpg",
+   "plaga_041_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 23,
+  "id_campania": 23,
+  "id_trabajador": 31,
+  "fecha_reporte": {
+   "$date": "2025-12-10T11:50:00Z"
+  },
+  "tipo_plaga": "hongos",
+  "nivel_afectacion": "alto",
+  "area_afectada_pct": 62,
+  "descripcion": "Manchas en hojas asociadas a hongos.",
+  "fotografias": [
+   "plaga_042_1.jpg",
+   "plaga_042_2.jpg",
+   "plaga_042_3.jpg"
+  ],
+  "estado": "resuelto",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 33,
+  "id_campania": 33,
+  "id_trabajador": 30,
+  "fecha_reporte": {
+   "$date": "2026-09-24T10:30:00Z"
+  },
+  "tipo_plaga": "otros",
+  "nivel_afectacion": "bajo",
+  "descripcion": "Dano por causa no determinada en un sector.",
+  "fotografias": [
+   "plaga_043_1.jpg",
+   "plaga_043_2.jpg",
+   "plaga_043_3.jpg"
+  ],
+  "estado": "pendiente",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 33,
+  "id_campania": 33,
+  "id_trabajador": 30,
+  "fecha_reporte": {
+   "$date": "2026-10-18T14:40:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 19,
+  "descripcion": "Dano leve por insectos en hojas jovenes.",
+  "fotografias": [
+   "plaga_044_1.jpg",
+   "plaga_044_2.jpg",
+   "plaga_044_3.jpg"
+  ],
+  "estado": "en_atencion",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 15,
+  "id_campania": 15,
+  "id_trabajador": 26,
+  "fecha_reporte": {
+   "$date": "2026-11-21T10:50:00Z"
+  },
+  "tipo_plaga": "insectos",
+  "nivel_afectacion": "medio",
+  "area_afectada_pct": 22,
+  "descripcion": "Presencia de insectos en algunas plantas.",
+  "estado": "resuelto",
+  "origen": "sintetico"
+ }
+]

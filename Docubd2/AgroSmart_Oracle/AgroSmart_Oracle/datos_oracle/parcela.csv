@@ -1,0 +1,36 @@
+id_parcela,id_propietario,nombre,area_hectareas,ubicacion,latitud,longitud,tipo_suelo
+1,1,Parcela El Naranjal,103.73,"Huanuco, Huanuco (ficticia)",-10.092826,-76.361255,FRANCO_ARENOSO
+2,2,Parcela San Isidro,104.3,"Huanuco, Huanuco (ficticia)",-9.864729,-76.027248,LIMOSO
+3,3,Parcela El Mirador,56.09,"Ica, Ica (ficticia)",-14.215165,-75.725983,FRANCO_ARENOSO
+4,4,Parcela Los Olivos,62.03,"Chiclayo, Lambayeque (ficticia)",-6.624159,-79.954659,FRANCO_ARCILLOSO
+5,5,Parcela Los Sauces,17.1,"San Martin, San Martin (ficticia)",-6.400754,-76.191596,ARCILLOSO
+6,6,Parcela Las Palmeras,64.3,"Canete, Lima (ficticia)",-12.966924,-76.545473,FRANCO_ARENOSO
+7,7,Parcela Alto Peru,84.81,"Huanuco, Huanuco (ficticia)",-10.103446,-76.418011,FRANCO_ARCILLOSO
+8,8,Parcela Los Pinos,8.08,"Jaen, Cajamarca (ficticia)",-5.626678,-79.042738,ARCILLOSO
+9,9,Parcela El Porvenir,17.39,"Chiclayo, Lambayeque (ficticia)",-6.538449,-79.743525,LIMOSO
+10,10,Parcela San Martin,20.86,"San Martin, San Martin (ficticia)",-6.393509,-76.244321,FRANCO_ARCILLOSO
+11,11,Parcela La Quebrada,50.14,"Chiclayo, Lambayeque (ficticia)",-6.7086,-79.63381,ARENOSO
+12,12,Parcela Santa Lucia,27.14,"Arequipa, Arequipa (ficticia)",-16.467922,-71.518627,FRANCO
+13,13,Parcela Villa Hermosa,19.28,"Canete, Lima (ficticia)",-13.167748,-76.282592,ARENOSO
+14,14,Parcela Los Alamos,1.7,"San Martin, San Martin (ficticia)",-6.692672,-76.326995,FRANCO_ARCILLOSO
+15,15,Parcela Buenavista,39.99,"Arequipa, Arequipa (ficticia)",-16.635956,-71.538368,ARENOSO
+16,16,Parcela La Aurora,79.88,"Canete, Lima (ficticia)",-13.230282,-76.219094,LIMOSO
+17,17,Parcela La Esperanza,79.67,"Piura, Piura (ficticia)",-5.192721,-80.693825,FRANCO_ARENOSO
+18,18,Parcela El Progreso,86.76,"Canete, Lima (ficticia)",-13.100307,-76.458404,LIMOSO
+19,19,Parcela La Huaca,75.82,"Arequipa, Arequipa (ficticia)",-16.429762,-71.316036,FRANCO_ARENOSO
+20,20,Parcela El Triunfo,11.74,"San Martin, San Martin (ficticia)",-6.291533,-76.250474,ARENOSO
+21,21,Parcela El Mangal,42.99,"Trujillo, La Libertad (ficticia)",-8.020489,-78.936045,ARENOSO
+22,22,Parcela El Rosal,25.07,"Chiclayo, Lambayeque (ficticia)",-6.803207,-79.64026,FRANCO
+23,23,Parcela Monte Verde,65.99,"Ica, Ica (ficticia)",-14.247559,-75.532113,FRANCO_ARCILLOSO
+24,24,Parcela La Campina,35.02,"Arequipa, Arequipa (ficticia)",-16.467386,-71.785239,FRANCO_ARENOSO
+25,25,Parcela Rio Seco,106.5,"San Martin, San Martin (ficticia)",-6.319766,-76.375914,LIMOSO
+26,26,Parcela La Joya,95.37,"Trujillo, La Libertad (ficticia)",-8.080177,-78.795164,FRANCO
+27,27,Parcela La Victoria,73.34,"Canete, Lima (ficticia)",-13.033481,-76.174635,FRANCO_ARCILLOSO
+28,28,Parcela Santa Elena,39.69,"Huanuco, Huanuco (ficticia)",-10.052572,-76.148985,FRANCO
+29,29,Parcela Las Lomas,42.04,"San Martin, San Martin (ficticia)",-6.327024,-76.357301,FRANCO_ARENOSO
+30,30,Parcela El Cerezo,97.78,"Trujillo, La Libertad (ficticia)",-8.211621,-79.239729,ARENOSO
+31,17,Parcela Pampa Grande,110.77,"Trujillo, La Libertad (ficticia)",-8.077811,-79.086883,FRANCO_ARCILLOSO
+32,15,Parcela San Pedro,73.91,"Jaen, Cajamarca (ficticia)",-5.689609,-78.983448,ARCILLOSO
+33,1,Parcela La Pradera,13.33,"Chiclayo, Lambayeque (ficticia)",-6.974071,-79.822616,ARCILLOSO
+34,2,Parcela Santa Rosa,90.07,"Ica, Ica (ficticia)",-14.284437,-75.679021,ARENOSO
+35,23,Parcela San Jose,19.07,"Huaral, Lima (ficticia)",-11.270898,-77.338996,FRANCO_ARCILLOSO

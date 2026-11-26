@@ -1,0 +1,1092 @@
+[
+ {
+  "id_parcela": 17,
+  "id_campania": 17,
+  "id_trabajador": 39,
+  "fecha": {
+   "$date": "2026-11-12T10:30:00Z"
+  },
+  "descripcion": "Floracion uniforme en la mayor parte de la parcela.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_001_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_001_2.jpg"
+   }
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 22,
+  "id_campania": 22,
+  "id_trabajador": 23,
+  "fecha": {
+   "$date": "2026-07-23T17:00:00Z"
+  },
+  "descripcion": "Inicio de cosecha en la zona mas avanzada del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_002_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_002_2.jpg"
+   }
+  ],
+  "etiquetas": [
+   "seguimiento",
+   "cosecha",
+   "malezas"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 25,
+  "id_campania": 25,
+  "id_trabajador": 26,
+  "fecha": {
+   "$date": "2026-09-30T08:10:00Z"
+  },
+  "descripcion": "Hojas con coloracion amarillenta en los bordes de la parcela.",
+  "etiquetas": [
+   "fertilizacion"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 25,
+  "id_campania": 25,
+  "id_trabajador": 26,
+  "fecha": {
+   "$date": "2026-11-09T12:20:00Z"
+  },
+  "descripcion": "Presencia de aves en el sector sur; se revisara la proteccion.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_004_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "suelo"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 36,
+  "id_trabajador": 15,
+  "fecha": {
+   "$date": "2026-02-19T14:10:00Z"
+  },
+  "descripcion": "Buen desarrollo de las plantas en el sector norte.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_005_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "malezas"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha": {
+   "$date": "2025-12-23T15:00:00Z"
+  },
+  "descripcion": "Se observa crecimiento irregular en una zona del cultivo.",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 3,
+  "id_trabajador": 12,
+  "fecha": {
+   "$date": "2025-06-01T12:15:00Z"
+  },
+  "descripcion": "Se observa crecimiento irregular en una zona del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_007_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_007_2.jpg"
+   }
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 34,
+  "id_campania": 34,
+  "id_trabajador": 6,
+  "fecha": {
+   "$date": "2026-05-29T10:15:00Z"
+  },
+  "descripcion": "Se detecta acumulacion de agua en la parte baja del terreno.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_008_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "crecimiento"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 23,
+  "id_campania": 23,
+  "id_trabajador": 34,
+  "fecha": {
+   "$date": "2025-11-16T15:50:00Z"
+  },
+  "descripcion": "Cobertura vegetal pareja tras la ultima fertilizacion.",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha": {
+   "$date": "2026-01-10T08:30:00Z"
+  },
+  "descripcion": "Se detecta acumulacion de agua en la parte baja del terreno.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_010_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "fertilizacion"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 38,
+  "id_trabajador": 27,
+  "fecha": {
+   "$date": "2025-10-05T07:00:00Z"
+  },
+  "descripcion": "Se observa crecimiento irregular en una zona del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_011_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "cosecha"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 14,
+  "id_campania": 14,
+  "id_trabajador": 40,
+  "fecha": {
+   "$date": "2025-08-03T08:45:00Z"
+  },
+  "descripcion": "Hojas con coloracion amarillenta en los bordes de la parcela.",
+  "evidencias": [
+   {
+    "tipo": "documento",
+    "archivo": "obs_012_1.pdf"
+   }
+  ],
+  "etiquetas": [
+   "fertilizacion",
+   "crecimiento",
+   "maquinaria"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 9,
+  "id_campania": 9,
+  "id_trabajador": 29,
+  "fecha": {
+   "$date": "2025-07-30T14:00:00Z"
+  },
+  "descripcion": "Se marcaron plantas con sintomas para seguimiento.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_013_1.jpg"
+   }
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 34,
+  "id_campania": 34,
+  "id_trabajador": 6,
+  "fecha": {
+   "$date": "2026-09-14T07:40:00Z"
+  },
+  "descripcion": "Presencia de aves en el sector sur; se revisara la proteccion.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_014_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "seguimiento"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 5,
+  "id_campania": 5,
+  "id_trabajador": 39,
+  "fecha": {
+   "$date": "2025-07-09T10:50:00Z"
+  },
+  "descripcion": "Inicio de cosecha en la zona mas avanzada del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "documento",
+    "archivo": "obs_015_1.pdf"
+   }
+  ],
+  "etiquetas": [
+   "seguimiento"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 32,
+  "id_campania": 32,
+  "id_trabajador": 22,
+  "fecha": {
+   "$date": "2025-09-16T12:10:00Z"
+  },
+  "descripcion": "Inicio de cosecha en la zona mas avanzada del cultivo.",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 37,
+  "id_trabajador": 34,
+  "fecha": {
+   "$date": "2026-02-04T17:45:00Z"
+  },
+  "descripcion": "Inicio de cosecha en la zona mas avanzada del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_017_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "crecimiento",
+   "cosecha"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha": {
+   "$date": "2026-02-18T12:10:00Z"
+  },
+  "descripcion": "Floracion uniforme en la mayor parte de la parcela.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_018_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_018_2.jpg"
+   }
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 25,
+  "id_campania": 25,
+  "id_trabajador": 26,
+  "fecha": {
+   "$date": "2026-11-10T14:20:00Z"
+  },
+  "descripcion": "Se observa suelo compactado en la zona de transito de maquinaria.",
+  "etiquetas": [
+   "maquinaria"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 12,
+  "id_campania": 12,
+  "id_trabajador": 34,
+  "fecha": {
+   "$date": "2025-08-10T11:20:00Z"
+  },
+  "descripcion": "Plantas con menor altura cerca del canal de riego.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_020_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "riego"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 1,
+  "id_trabajador": 29,
+  "fecha": {
+   "$date": "2025-05-16T09:30:00Z"
+  },
+  "descripcion": "Revision de mangueras de riego: dos puntos con fuga menor.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_021_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "riego",
+   "fertilizacion"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 35,
+  "id_campania": 35,
+  "id_trabajador": 31,
+  "fecha": {
+   "$date": "2026-07-01T07:40:00Z"
+  },
+  "descripcion": "Plantas con menor altura cerca del canal de riego.",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 8,
+  "id_campania": 8,
+  "id_trabajador": 12,
+  "fecha": {
+   "$date": "2026-08-21T15:50:00Z"
+  },
+  "descripcion": "Buen desarrollo de las plantas en el sector norte.",
+  "etiquetas": [
+   "seguimiento",
+   "crecimiento"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 7,
+  "id_campania": 7,
+  "id_trabajador": 26,
+  "fecha": {
+   "$date": "2026-09-07T10:15:00Z"
+  },
+  "descripcion": "Inicio de cosecha en la zona mas avanzada del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_024_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "cosecha",
+   "fertilizacion",
+   "malezas"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 36,
+  "id_trabajador": 15,
+  "fecha": {
+   "$date": "2026-06-26T09:50:00Z"
+  },
+  "descripcion": "Cobertura vegetal pareja tras la ultima fertilizacion.",
+  "etiquetas": [
+   "supervision"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha": {
+   "$date": "2026-01-18T09:10:00Z"
+  },
+  "descripcion": "Se observa suelo compactado en la zona de transito de maquinaria.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_026_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "riego"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 9,
+  "id_campania": 9,
+  "id_trabajador": 29,
+  "fecha": {
+   "$date": "2025-07-17T15:45:00Z"
+  },
+  "descripcion": "Presencia de aves en el sector sur; se revisara la proteccion.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_027_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "suelo",
+   "cosecha"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 25,
+  "id_campania": 25,
+  "id_trabajador": 1,
+  "fecha": {
+   "$date": "2026-09-05T07:10:00Z"
+  },
+  "descripcion": "Inicio de cosecha en la zona mas avanzada del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_028_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "cosecha"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 14,
+  "id_campania": 14,
+  "id_trabajador": 8,
+  "fecha": {
+   "$date": "2025-08-14T08:50:00Z"
+  },
+  "descripcion": "Revision de mangueras de riego: dos puntos con fuga menor.",
+  "etiquetas": [
+   "fertilizacion",
+   "seguimiento"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 28,
+  "id_campania": 28,
+  "id_trabajador": 5,
+  "fecha": {
+   "$date": "2026-02-01T13:40:00Z"
+  },
+  "descripcion": "Se observa crecimiento irregular en una zona del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "documento",
+    "archivo": "obs_030_1.pdf"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_030_2.jpg"
+   }
+  ],
+  "etiquetas": [
+   "fertilizacion",
+   "supervision"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 29,
+  "id_campania": 29,
+  "id_trabajador": 8,
+  "fecha": {
+   "$date": "2026-08-22T07:20:00Z"
+  },
+  "descripcion": "Humedad adecuada despues del riego de la manana.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_031_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "riego",
+   "crecimiento"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 28,
+  "id_campania": 28,
+  "id_trabajador": 5,
+  "fecha": {
+   "$date": "2026-02-13T08:30:00Z"
+  },
+  "descripcion": "Presencia de aves en el sector sur; se revisara la proteccion.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_032_1.jpg"
+   }
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 15,
+  "id_campania": 15,
+  "id_trabajador": 26,
+  "fecha": {
+   "$date": "2026-10-07T08:00:00Z"
+  },
+  "descripcion": "Se marcaron plantas con sintomas para seguimiento.",
+  "evidencias": [
+   {
+    "tipo": "documento",
+    "archivo": "obs_033_1.pdf"
+   }
+  ],
+  "etiquetas": [
+   "supervision",
+   "fertilizacion",
+   "riego"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 9,
+  "id_campania": 9,
+  "id_trabajador": 29,
+  "fecha": {
+   "$date": "2025-08-19T08:15:00Z"
+  },
+  "descripcion": "Humedad adecuada despues del riego de la manana.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_034_1.jpg"
+   }
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 29,
+  "id_campania": 29,
+  "id_trabajador": 8,
+  "fecha": {
+   "$date": "2026-09-08T14:50:00Z"
+  },
+  "descripcion": "Plantas con menor altura cerca del canal de riego.",
+  "etiquetas": [
+   "malezas"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 23,
+  "id_campania": 23,
+  "id_trabajador": 34,
+  "fecha": {
+   "$date": "2025-12-11T09:30:00Z"
+  },
+  "descripcion": "Se observa suelo compactado en la zona de transito de maquinaria.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_036_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "maquinaria"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 33,
+  "id_campania": 33,
+  "id_trabajador": 30,
+  "fecha": {
+   "$date": "2026-10-21T08:15:00Z"
+  },
+  "descripcion": "Buen desarrollo de las plantas en el sector norte.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_037_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "crecimiento",
+   "suelo"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 35,
+  "id_campania": 35,
+  "id_trabajador": 31,
+  "fecha": {
+   "$date": "2026-06-21T10:20:00Z"
+  },
+  "descripcion": "Cobertura vegetal pareja tras la ultima fertilizacion.",
+  "etiquetas": [
+   "crecimiento",
+   "suelo"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha": {
+   "$date": "2026-03-25T14:00:00Z"
+  },
+  "descripcion": "Se observa crecimiento irregular en una zona del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_039_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "fertilizacion"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 38,
+  "id_trabajador": 27,
+  "fecha": {
+   "$date": "2025-11-03T17:15:00Z"
+  },
+  "descripcion": "Se observa suelo compactado en la zona de transito de maquinaria.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_040_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_040_2.jpg"
+   }
+  ],
+  "etiquetas": [
+   "cosecha",
+   "suelo",
+   "riego"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 22,
+  "id_campania": 22,
+  "id_trabajador": 9,
+  "fecha": {
+   "$date": "2026-08-02T16:30:00Z"
+  },
+  "descripcion": "Se detecta acumulacion de agua en la parte baja del terreno.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_041_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_041_2.jpg"
+   }
+  ],
+  "etiquetas": [
+   "cosecha"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 29,
+  "id_campania": 29,
+  "id_trabajador": 8,
+  "fecha": {
+   "$date": "2026-11-07T07:50:00Z"
+  },
+  "descripcion": "Plantas con menor altura cerca del canal de riego.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_042_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_042_2.jpg"
+   }
+  ],
+  "etiquetas": [
+   "maquinaria"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 4,
+  "id_campania": 39,
+  "id_trabajador": 14,
+  "fecha": {
+   "$date": "2025-11-01T07:20:00Z"
+  },
+  "descripcion": "Humedad adecuada despues del riego de la manana.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_043_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "cosecha",
+   "malezas"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 18,
+  "id_campania": 18,
+  "id_trabajador": 19,
+  "fecha": {
+   "$date": "2026-10-10T08:10:00Z"
+  },
+  "descripcion": "Se observa crecimiento irregular en una zona del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_044_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_044_2.jpg"
+   }
+  ],
+  "etiquetas": [
+   "riego",
+   "seguimiento",
+   "cosecha"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 1,
+  "id_trabajador": 29,
+  "fecha": {
+   "$date": "2025-06-27T14:00:00Z"
+  },
+  "descripcion": "Revision de mangueras de riego: dos puntos con fuga menor.",
+  "evidencias": [
+   {
+    "tipo": "documento",
+    "archivo": "obs_045_1.pdf"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_045_2.jpg"
+   }
+  ],
+  "etiquetas": [
+   "suelo",
+   "riego"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 37,
+  "id_trabajador": 34,
+  "fecha": {
+   "$date": "2026-06-11T09:00:00Z"
+  },
+  "descripcion": "Cobertura vegetal pareja tras la ultima fertilizacion.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_046_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "maquinaria"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 34,
+  "id_campania": 34,
+  "id_trabajador": 6,
+  "fecha": {
+   "$date": "2026-07-24T13:45:00Z"
+  },
+  "descripcion": "Se detecta acumulacion de agua en la parte baja del terreno.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_047_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "maquinaria",
+   "seguimiento",
+   "fertilizacion"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 12,
+  "id_campania": 12,
+  "id_trabajador": 34,
+  "fecha": {
+   "$date": "2025-05-27T11:10:00Z"
+  },
+  "descripcion": "Inicio de cosecha en la zona mas avanzada del cultivo.",
+  "evidencias": [
+   {
+    "tipo": "documento",
+    "archivo": "obs_048_1.pdf"
+   }
+  ],
+  "etiquetas": [
+   "suelo",
+   "maquinaria"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "id_trabajador": 6,
+  "fecha": {
+   "$date": "2026-04-13T09:40:00Z"
+  },
+  "descripcion": "Hojas con coloracion amarillenta en los bordes de la parcela.",
+  "etiquetas": [
+   "riego"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 5,
+  "id_campania": 5,
+  "id_trabajador": 39,
+  "fecha": {
+   "$date": "2025-06-23T13:45:00Z"
+  },
+  "descripcion": "Presencia de aves en el sector sur; se revisara la proteccion.",
+  "evidencias": [
+   {
+    "tipo": "documento",
+    "archivo": "obs_050_1.pdf"
+   }
+  ],
+  "etiquetas": [
+   "fertilizacion"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 4,
+  "id_campania": 39,
+  "id_trabajador": 14,
+  "fecha": {
+   "$date": "2025-11-05T08:15:00Z"
+  },
+  "descripcion": "Cobertura vegetal pareja tras la ultima fertilizacion.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_051_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_051_2.jpg"
+   }
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 9,
+  "id_campania": 9,
+  "id_trabajador": 29,
+  "fecha": {
+   "$date": "2025-08-13T16:40:00Z"
+  },
+  "descripcion": "Presencia de aves en el sector sur; se revisara la proteccion.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_052_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "cosecha",
+   "malezas"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 37,
+  "id_trabajador": 34,
+  "fecha": {
+   "$date": "2026-06-24T15:20:00Z"
+  },
+  "descripcion": "Hojas con coloracion amarillenta en los bordes de la parcela.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_053_1.jpg"
+   },
+   {
+    "tipo": "imagen",
+    "archivo": "obs_053_2.jpg"
+   }
+  ],
+  "etiquetas": [
+   "crecimiento",
+   "cosecha"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 19,
+  "id_campania": 19,
+  "id_trabajador": 24,
+  "fecha": {
+   "$date": "2026-10-19T07:10:00Z"
+  },
+  "descripcion": "Buen desarrollo de las plantas en el sector norte.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_054_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "crecimiento",
+   "cosecha"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 28,
+  "id_campania": 28,
+  "id_trabajador": 5,
+  "fecha": {
+   "$date": "2026-03-27T12:00:00Z"
+  },
+  "descripcion": "Floracion uniforme en la mayor parte de la parcela.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_055_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "seguimiento",
+   "supervision"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 1,
+  "id_trabajador": 29,
+  "fecha": {
+   "$date": "2025-03-24T10:20:00Z"
+  },
+  "descripcion": "Se marcaron plantas con sintomas para seguimiento.",
+  "evidencias": [
+   {
+    "tipo": "imagen",
+    "archivo": "obs_056_1.jpg"
+   }
+  ],
+  "etiquetas": [
+   "crecimiento",
+   "fertilizacion",
+   "maquinaria"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 38,
+  "id_trabajador": 27,
+  "fecha": {
+   "$date": "2025-12-07T08:40:00Z"
+  },
+  "descripcion": "Hojas con coloracion amarillenta en los bordes de la parcela.",
+  "etiquetas": [
+   "malezas"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 22,
+  "id_campania": 22,
+  "id_trabajador": 9,
+  "fecha": {
+   "$date": "2026-07-29T11:45:00Z"
+  },
+  "descripcion": "Se recomienda reforzar el control de malezas en el sector este.",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 37,
+  "id_trabajador": 34,
+  "fecha": {
+   "$date": "2026-04-29T17:20:00Z"
+  },
+  "descripcion": "Se marcaron plantas con sintomas para seguimiento.",
+  "etiquetas": [
+   "malezas"
+  ],
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 22,
+  "id_campania": 22,
+  "id_trabajador": 9,
+  "fecha": {
+   "$date": "2026-07-22T17:15:00Z"
+  },
+  "descripcion": "Se observa suelo compactado en la zona de transito de maquinaria.",
+  "etiquetas": [
+   "malezas",
+   "fertilizacion",
+   "crecimiento"
+  ],
+  "origen": "sintetico"
+ }
+]

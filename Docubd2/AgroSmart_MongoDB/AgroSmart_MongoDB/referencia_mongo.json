@@ -1,0 +1,1433 @@
+{
+ "aviso": "DATOS SINTETICOS. Identificadores validos de Oracle para generar los documentos de MongoDB.",
+ "parcelas": [
+  {
+   "id_parcela": 1,
+   "nombre": "Parcela El Naranjal",
+   "ubicacion": "Huanuco, Huanuco (ficticia)",
+   "latitud": -10.092826,
+   "longitud": -76.361255
+  },
+  {
+   "id_parcela": 2,
+   "nombre": "Parcela San Isidro",
+   "ubicacion": "Huanuco, Huanuco (ficticia)",
+   "latitud": -9.864729,
+   "longitud": -76.027248
+  },
+  {
+   "id_parcela": 3,
+   "nombre": "Parcela El Mirador",
+   "ubicacion": "Ica, Ica (ficticia)",
+   "latitud": -14.215165,
+   "longitud": -75.725983
+  },
+  {
+   "id_parcela": 4,
+   "nombre": "Parcela Los Olivos",
+   "ubicacion": "Chiclayo, Lambayeque (ficticia)",
+   "latitud": -6.624159,
+   "longitud": -79.954659
+  },
+  {
+   "id_parcela": 5,
+   "nombre": "Parcela Los Sauces",
+   "ubicacion": "San Martin, San Martin (ficticia)",
+   "latitud": -6.400754,
+   "longitud": -76.191596
+  },
+  {
+   "id_parcela": 6,
+   "nombre": "Parcela Las Palmeras",
+   "ubicacion": "Canete, Lima (ficticia)",
+   "latitud": -12.966924,
+   "longitud": -76.545473
+  },
+  {
+   "id_parcela": 7,
+   "nombre": "Parcela Alto Peru",
+   "ubicacion": "Huanuco, Huanuco (ficticia)",
+   "latitud": -10.103446,
+   "longitud": -76.418011
+  },
+  {
+   "id_parcela": 8,
+   "nombre": "Parcela Los Pinos",
+   "ubicacion": "Jaen, Cajamarca (ficticia)",
+   "latitud": -5.626678,
+   "longitud": -79.042738
+  },
+  {
+   "id_parcela": 9,
+   "nombre": "Parcela El Porvenir",
+   "ubicacion": "Chiclayo, Lambayeque (ficticia)",
+   "latitud": -6.538449,
+   "longitud": -79.743525
+  },
+  {
+   "id_parcela": 10,
+   "nombre": "Parcela San Martin",
+   "ubicacion": "San Martin, San Martin (ficticia)",
+   "latitud": -6.393509,
+   "longitud": -76.244321
+  },
+  {
+   "id_parcela": 11,
+   "nombre": "Parcela La Quebrada",
+   "ubicacion": "Chiclayo, Lambayeque (ficticia)",
+   "latitud": -6.7086,
+   "longitud": -79.63381
+  },
+  {
+   "id_parcela": 12,
+   "nombre": "Parcela Santa Lucia",
+   "ubicacion": "Arequipa, Arequipa (ficticia)",
+   "latitud": -16.467922,
+   "longitud": -71.518627
+  },
+  {
+   "id_parcela": 13,
+   "nombre": "Parcela Villa Hermosa",
+   "ubicacion": "Canete, Lima (ficticia)",
+   "latitud": -13.167748,
+   "longitud": -76.282592
+  },
+  {
+   "id_parcela": 14,
+   "nombre": "Parcela Los Alamos",
+   "ubicacion": "San Martin, San Martin (ficticia)",
+   "latitud": -6.692672,
+   "longitud": -76.326995
+  },
+  {
+   "id_parcela": 15,
+   "nombre": "Parcela Buenavista",
+   "ubicacion": "Arequipa, Arequipa (ficticia)",
+   "latitud": -16.635956,
+   "longitud": -71.538368
+  },
+  {
+   "id_parcela": 16,
+   "nombre": "Parcela La Aurora",
+   "ubicacion": "Canete, Lima (ficticia)",
+   "latitud": -13.230282,
+   "longitud": -76.219094
+  },
+  {
+   "id_parcela": 17,
+   "nombre": "Parcela La Esperanza",
+   "ubicacion": "Piura, Piura (ficticia)",
+   "latitud": -5.192721,
+   "longitud": -80.693825
+  },
+  {
+   "id_parcela": 18,
+   "nombre": "Parcela El Progreso",
+   "ubicacion": "Canete, Lima (ficticia)",
+   "latitud": -13.100307,
+   "longitud": -76.458404
+  },
+  {
+   "id_parcela": 19,
+   "nombre": "Parcela La Huaca",
+   "ubicacion": "Arequipa, Arequipa (ficticia)",
+   "latitud": -16.429762,
+   "longitud": -71.316036
+  },
+  {
+   "id_parcela": 20,
+   "nombre": "Parcela El Triunfo",
+   "ubicacion": "San Martin, San Martin (ficticia)",
+   "latitud": -6.291533,
+   "longitud": -76.250474
+  },
+  {
+   "id_parcela": 21,
+   "nombre": "Parcela El Mangal",
+   "ubicacion": "Trujillo, La Libertad (ficticia)",
+   "latitud": -8.020489,
+   "longitud": -78.936045
+  },
+  {
+   "id_parcela": 22,
+   "nombre": "Parcela El Rosal",
+   "ubicacion": "Chiclayo, Lambayeque (ficticia)",
+   "latitud": -6.803207,
+   "longitud": -79.64026
+  },
+  {
+   "id_parcela": 23,
+   "nombre": "Parcela Monte Verde",
+   "ubicacion": "Ica, Ica (ficticia)",
+   "latitud": -14.247559,
+   "longitud": -75.532113
+  },
+  {
+   "id_parcela": 24,
+   "nombre": "Parcela La Campina",
+   "ubicacion": "Arequipa, Arequipa (ficticia)",
+   "latitud": -16.467386,
+   "longitud": -71.785239
+  },
+  {
+   "id_parcela": 25,
+   "nombre": "Parcela Rio Seco",
+   "ubicacion": "San Martin, San Martin (ficticia)",
+   "latitud": -6.319766,
+   "longitud": -76.375914
+  },
+  {
+   "id_parcela": 26,
+   "nombre": "Parcela La Joya",
+   "ubicacion": "Trujillo, La Libertad (ficticia)",
+   "latitud": -8.080177,
+   "longitud": -78.795164
+  },
+  {
+   "id_parcela": 27,
+   "nombre": "Parcela La Victoria",
+   "ubicacion": "Canete, Lima (ficticia)",
+   "latitud": -13.033481,
+   "longitud": -76.174635
+  },
+  {
+   "id_parcela": 28,
+   "nombre": "Parcela Santa Elena",
+   "ubicacion": "Huanuco, Huanuco (ficticia)",
+   "latitud": -10.052572,
+   "longitud": -76.148985
+  },
+  {
+   "id_parcela": 29,
+   "nombre": "Parcela Las Lomas",
+   "ubicacion": "San Martin, San Martin (ficticia)",
+   "latitud": -6.327024,
+   "longitud": -76.357301
+  },
+  {
+   "id_parcela": 30,
+   "nombre": "Parcela El Cerezo",
+   "ubicacion": "Trujillo, La Libertad (ficticia)",
+   "latitud": -8.211621,
+   "longitud": -79.239729
+  },
+  {
+   "id_parcela": 31,
+   "nombre": "Parcela Pampa Grande",
+   "ubicacion": "Trujillo, La Libertad (ficticia)",
+   "latitud": -8.077811,
+   "longitud": -79.086883
+  },
+  {
+   "id_parcela": 32,
+   "nombre": "Parcela San Pedro",
+   "ubicacion": "Jaen, Cajamarca (ficticia)",
+   "latitud": -5.689609,
+   "longitud": -78.983448
+  },
+  {
+   "id_parcela": 33,
+   "nombre": "Parcela La Pradera",
+   "ubicacion": "Chiclayo, Lambayeque (ficticia)",
+   "latitud": -6.974071,
+   "longitud": -79.822616
+  },
+  {
+   "id_parcela": 34,
+   "nombre": "Parcela Santa Rosa",
+   "ubicacion": "Ica, Ica (ficticia)",
+   "latitud": -14.284437,
+   "longitud": -75.679021
+  },
+  {
+   "id_parcela": 35,
+   "nombre": "Parcela San Jose",
+   "ubicacion": "Huaral, Lima (ficticia)",
+   "latitud": -11.270898,
+   "longitud": -77.338996
+  }
+ ],
+ "campanias": [
+  {
+   "id_campania": 1,
+   "id_parcela": 1,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-03-10",
+   "fecha_fin_efectiva": "2025-07-08"
+  },
+  {
+   "id_campania": 2,
+   "id_parcela": 2,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-05-22",
+   "fecha_fin_efectiva": "2025-09-09"
+  },
+  {
+   "id_campania": 3,
+   "id_parcela": 3,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-03-13",
+   "fecha_fin_efectiva": "2025-07-01"
+  },
+  {
+   "id_campania": 4,
+   "id_parcela": 4,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-05-10",
+   "fecha_fin_efectiva": "2025-07-09"
+  },
+  {
+   "id_campania": 5,
+   "id_parcela": 5,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-05-22",
+   "fecha_fin_efectiva": "2025-10-19"
+  },
+  {
+   "id_campania": 6,
+   "id_parcela": 6,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-11-08",
+   "fecha_fin_efectiva": "2026-03-18"
+  },
+  {
+   "id_campania": 7,
+   "id_parcela": 7,
+   "estado": "EN_CURSO",
+   "fecha_inicio": "2026-08-09",
+   "fecha_fin_efectiva": "2026-11-22"
+  },
+  {
+   "id_campania": 8,
+   "id_parcela": 8,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2026-04-05",
+   "fecha_fin_efectiva": "2026-08-23"
+  },
+  {
+   "id_campania": 9,
+   "id_parcela": 9,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-07-04",
+   "fecha_fin_efectiva": "2025-09-02"
+  },
+  {
+   "id_campania": 10,
+   "id_parcela": 10,
+   "estado": "PLANIFICADA",
+   "fecha_inicio": "2026-12-16",
+   "fecha_fin_efectiva": null
+  },
+  {
+   "id_campania": 11,
+   "id_parcela": 11,
+   "estado": "EN_CURSO",
+   "fecha_inicio": "2026-10-12",
+   "fecha_fin_efectiva": "2026-11-22"
+  },
+  {
+   "id_campania": 12,
+   "id_parcela": 12,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-05-06",
+   "fecha_fin_efectiva": "2025-09-13"
+  },
+  {
+   "id_campania": 13,
+   "id_parcela": 13,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-02-22",
+   "fecha_fin_efectiva": "2025-07-22"
+  },
+  {
+   "id_campania": 14,
+   "id_parcela": 14,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-04-12",
+   "fecha_fin_efectiva": "2025-08-20"
+  },
+  {
+   "id_campania": 15,
+   "id_parcela": 15,
+   "estado": "EN_CURSO",
+   "fecha_inicio": "2026-09-01",
+   "fecha_fin_efectiva": "2026-11-22"
+  },
+  {
+   "id_campania": 16,
+   "id_parcela": 16,
+   "estado": "PLANIFICADA",
+   "fecha_inicio": "2026-12-15",
+   "fecha_fin_efectiva": null
+  },
+  {
+   "id_campania": 17,
+   "id_parcela": 17,
+   "estado": "EN_CURSO",
+   "fecha_inicio": "2026-08-12",
+   "fecha_fin_efectiva": "2026-11-22"
+  },
+  {
+   "id_campania": 18,
+   "id_parcela": 18,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2026-06-05",
+   "fecha_fin_efectiva": "2026-10-13"
+  },
+  {
+   "id_campania": 19,
+   "id_parcela": 19,
+   "estado": "EN_CURSO",
+   "fecha_inicio": "2026-09-09",
+   "fecha_fin_efectiva": "2026-11-22"
+  },
+  {
+   "id_campania": 20,
+   "id_parcela": 20,
+   "estado": "PLANIFICADA",
+   "fecha_inicio": "2027-01-01",
+   "fecha_fin_efectiva": null
+  },
+  {
+   "id_campania": 21,
+   "id_parcela": 21,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-02-10",
+   "fecha_fin_efectiva": "2025-11-17"
+  },
+  {
+   "id_campania": 22,
+   "id_parcela": 22,
+   "estado": "CANCELADA",
+   "fecha_inicio": "2026-07-21",
+   "fecha_fin_efectiva": "2026-08-05"
+  },
+  {
+   "id_campania": 23,
+   "id_parcela": 23,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-10-14",
+   "fecha_fin_efectiva": "2025-12-13"
+  },
+  {
+   "id_campania": 24,
+   "id_parcela": 24,
+   "estado": "PLANIFICADA",
+   "fecha_inicio": "2027-01-17",
+   "fecha_fin_efectiva": null
+  },
+  {
+   "id_campania": 25,
+   "id_parcela": 25,
+   "estado": "EN_CURSO",
+   "fecha_inicio": "2026-06-15",
+   "fecha_fin_efectiva": "2026-11-22"
+  },
+  {
+   "id_campania": 26,
+   "id_parcela": 26,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-02-02",
+   "fecha_fin_efectiva": "2025-11-29"
+  },
+  {
+   "id_campania": 27,
+   "id_parcela": 27,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-12-04",
+   "fecha_fin_efectiva": "2026-09-10"
+  },
+  {
+   "id_campania": 28,
+   "id_parcela": 28,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2026-01-14",
+   "fecha_fin_efectiva": "2026-05-24"
+  },
+  {
+   "id_campania": 29,
+   "id_parcela": 29,
+   "estado": "EN_CURSO",
+   "fecha_inicio": "2026-08-13",
+   "fecha_fin_efectiva": "2026-11-22"
+  },
+  {
+   "id_campania": 30,
+   "id_parcela": 30,
+   "estado": "PLANIFICADA",
+   "fecha_inicio": "2027-01-27",
+   "fecha_fin_efectiva": null
+  },
+  {
+   "id_campania": 31,
+   "id_parcela": 31,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-12-22",
+   "fecha_fin_efectiva": "2026-05-01"
+  },
+  {
+   "id_campania": 32,
+   "id_parcela": 32,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-07-16",
+   "fecha_fin_efectiva": "2026-04-22"
+  },
+  {
+   "id_campania": 33,
+   "id_parcela": 33,
+   "estado": "EN_CURSO",
+   "fecha_inicio": "2026-09-17",
+   "fecha_fin_efectiva": "2026-11-22"
+  },
+  {
+   "id_campania": 34,
+   "id_parcela": 34,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2026-05-16",
+   "fecha_fin_efectiva": "2026-10-03"
+  },
+  {
+   "id_campania": 35,
+   "id_parcela": 35,
+   "estado": "CANCELADA",
+   "fecha_inicio": "2026-06-20",
+   "fecha_fin_efectiva": "2026-07-01"
+  },
+  {
+   "id_campania": 36,
+   "id_parcela": 1,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-09-30",
+   "fecha_fin_efectiva": "2026-07-27"
+  },
+  {
+   "id_campania": 37,
+   "id_parcela": 2,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2026-01-30",
+   "fecha_fin_efectiva": "2026-07-09"
+  },
+  {
+   "id_campania": 38,
+   "id_parcela": 3,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-09-05",
+   "fecha_fin_efectiva": "2025-12-24"
+  },
+  {
+   "id_campania": 39,
+   "id_parcela": 4,
+   "estado": "FINALIZADA",
+   "fecha_inicio": "2025-09-18",
+   "fecha_fin_efectiva": "2026-03-17"
+  },
+  {
+   "id_campania": 40,
+   "id_parcela": 5,
+   "estado": "EN_CURSO",
+   "fecha_inicio": "2026-03-11",
+   "fecha_fin_efectiva": "2026-11-22"
+  }
+ ],
+ "sensores": [
+  {
+   "id_sensor": 1,
+   "id_parcela": 1,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-02-14"
+  },
+  {
+   "id_sensor": 2,
+   "id_parcela": 2,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-07-14"
+  },
+  {
+   "id_sensor": 3,
+   "id_parcela": 3,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-08-21"
+  },
+  {
+   "id_sensor": 4,
+   "id_parcela": 4,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-02-24"
+  },
+  {
+   "id_sensor": 5,
+   "id_parcela": 5,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-02-07"
+  },
+  {
+   "id_sensor": 6,
+   "id_parcela": 6,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-01-16"
+  },
+  {
+   "id_sensor": 7,
+   "id_parcela": 7,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-03-28"
+  },
+  {
+   "id_sensor": 8,
+   "id_parcela": 8,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-08-31"
+  },
+  {
+   "id_sensor": 9,
+   "id_parcela": 9,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-12-12"
+  },
+  {
+   "id_sensor": 10,
+   "id_parcela": 10,
+   "tipo_sensor": "MULTIPARAMETRO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-06-22"
+  },
+  {
+   "id_sensor": 11,
+   "id_parcela": 11,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-03-18"
+  },
+  {
+   "id_sensor": 12,
+   "id_parcela": 12,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "MANTENIMIENTO",
+   "fecha_instalacion": "2026-08-04"
+  },
+  {
+   "id_sensor": 13,
+   "id_parcela": 13,
+   "tipo_sensor": "MULTIPARAMETRO",
+   "estado": "MANTENIMIENTO",
+   "fecha_instalacion": "2026-05-01"
+  },
+  {
+   "id_sensor": 14,
+   "id_parcela": 14,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-11-27"
+  },
+  {
+   "id_sensor": 15,
+   "id_parcela": 15,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-05-23"
+  },
+  {
+   "id_sensor": 16,
+   "id_parcela": 16,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-05-25"
+  },
+  {
+   "id_sensor": 17,
+   "id_parcela": 17,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-12-13"
+  },
+  {
+   "id_sensor": 18,
+   "id_parcela": 18,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-08-29"
+  },
+  {
+   "id_sensor": 19,
+   "id_parcela": 19,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-04-29"
+  },
+  {
+   "id_sensor": 20,
+   "id_parcela": 20,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-11-08"
+  },
+  {
+   "id_sensor": 21,
+   "id_parcela": 21,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-08-04"
+  },
+  {
+   "id_sensor": 22,
+   "id_parcela": 22,
+   "tipo_sensor": "MULTIPARAMETRO",
+   "estado": "INACTIVO",
+   "fecha_instalacion": "2025-01-11"
+  },
+  {
+   "id_sensor": 23,
+   "id_parcela": 23,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-06-29"
+  },
+  {
+   "id_sensor": 24,
+   "id_parcela": 24,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-09-06"
+  },
+  {
+   "id_sensor": 25,
+   "id_parcela": 25,
+   "tipo_sensor": "MULTIPARAMETRO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-06-12"
+  },
+  {
+   "id_sensor": 26,
+   "id_parcela": 26,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-05-05"
+  },
+  {
+   "id_sensor": 27,
+   "id_parcela": 27,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-09-20"
+  },
+  {
+   "id_sensor": 28,
+   "id_parcela": 28,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-09-16"
+  },
+  {
+   "id_sensor": 29,
+   "id_parcela": 29,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-06-04"
+  },
+  {
+   "id_sensor": 30,
+   "id_parcela": 30,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-03-31"
+  },
+  {
+   "id_sensor": 31,
+   "id_parcela": 31,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-11-29"
+  },
+  {
+   "id_sensor": 32,
+   "id_parcela": 32,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "INACTIVO",
+   "fecha_instalacion": "2026-01-30"
+  },
+  {
+   "id_sensor": 33,
+   "id_parcela": 33,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-03-31"
+  },
+  {
+   "id_sensor": 34,
+   "id_parcela": 34,
+   "tipo_sensor": "MULTIPARAMETRO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-09-14"
+  },
+  {
+   "id_sensor": 35,
+   "id_parcela": 35,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-04-26"
+  },
+  {
+   "id_sensor": 36,
+   "id_parcela": 5,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-06-22"
+  },
+  {
+   "id_sensor": 37,
+   "id_parcela": 18,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-07-29"
+  },
+  {
+   "id_sensor": 38,
+   "id_parcela": 14,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-02-18"
+  },
+  {
+   "id_sensor": 39,
+   "id_parcela": 1,
+   "tipo_sensor": "TEMPERATURA",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2025-11-30"
+  },
+  {
+   "id_sensor": 40,
+   "id_parcela": 19,
+   "tipo_sensor": "HUMEDAD_SUELO",
+   "estado": "ACTIVO",
+   "fecha_instalacion": "2026-01-30"
+  }
+ ],
+ "trabajadores": [
+  {
+   "id_trabajador": 1,
+   "cargo": "OPERADOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 2,
+   "cargo": "OPERADOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 3,
+   "cargo": "AGRICULTOR",
+   "estado": "INACTIVO"
+  },
+  {
+   "id_trabajador": 4,
+   "cargo": "OPERADOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 5,
+   "cargo": "TECNICO_CAMPO",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 6,
+   "cargo": "ASISTENTE",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 7,
+   "cargo": "OPERADOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 8,
+   "cargo": "SUPERVISOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 9,
+   "cargo": "TECNICO_CAMPO",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 10,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 11,
+   "cargo": "SUPERVISOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 12,
+   "cargo": "ASISTENTE",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 13,
+   "cargo": "ASISTENTE",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 14,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 15,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 16,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 17,
+   "cargo": "ASISTENTE",
+   "estado": "INACTIVO"
+  },
+  {
+   "id_trabajador": 18,
+   "cargo": "TECNICO_CAMPO",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 19,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 20,
+   "cargo": "TECNICO_CAMPO",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 21,
+   "cargo": "AGRICULTOR",
+   "estado": "INACTIVO"
+  },
+  {
+   "id_trabajador": 22,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 23,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 24,
+   "cargo": "OPERADOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 25,
+   "cargo": "OPERADOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 26,
+   "cargo": "OPERADOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 27,
+   "cargo": "TECNICO_CAMPO",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 28,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 29,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 30,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 31,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 32,
+   "cargo": "TECNICO_CAMPO",
+   "estado": "INACTIVO"
+  },
+  {
+   "id_trabajador": 33,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 34,
+   "cargo": "SUPERVISOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 35,
+   "cargo": "TECNICO_CAMPO",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 36,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 37,
+   "cargo": "TECNICO_CAMPO",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 38,
+   "cargo": "TECNICO_CAMPO",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 39,
+   "cargo": "ASISTENTE",
+   "estado": "ACTIVO"
+  },
+  {
+   "id_trabajador": 40,
+   "cargo": "AGRICULTOR",
+   "estado": "ACTIVO"
+  }
+ ],
+ "asignaciones": [
+  {
+   "id_campania": 1,
+   "id_trabajador": 39,
+   "fecha_asignacion": "2025-05-27"
+  },
+  {
+   "id_campania": 1,
+   "id_trabajador": 29,
+   "fecha_asignacion": "2025-07-04"
+  },
+  {
+   "id_campania": 1,
+   "id_trabajador": 29,
+   "fecha_asignacion": "2025-05-17"
+  },
+  {
+   "id_campania": 2,
+   "id_trabajador": 26,
+   "fecha_asignacion": "2025-06-13"
+  },
+  {
+   "id_campania": 2,
+   "id_trabajador": 33,
+   "fecha_asignacion": "2025-05-26"
+  },
+  {
+   "id_campania": 2,
+   "id_trabajador": 33,
+   "fecha_asignacion": "2025-09-04"
+  },
+  {
+   "id_campania": 3,
+   "id_trabajador": 12,
+   "fecha_asignacion": "2025-05-08"
+  },
+  {
+   "id_campania": 3,
+   "id_trabajador": 31,
+   "fecha_asignacion": "2025-06-08"
+  },
+  {
+   "id_campania": 3,
+   "id_trabajador": 31,
+   "fecha_asignacion": "2025-05-30"
+  },
+  {
+   "id_campania": 4,
+   "id_trabajador": 37,
+   "fecha_asignacion": "2025-06-14"
+  },
+  {
+   "id_campania": 4,
+   "id_trabajador": 37,
+   "fecha_asignacion": "2025-07-02"
+  },
+  {
+   "id_campania": 5,
+   "id_trabajador": 39,
+   "fecha_asignacion": "2025-09-28"
+  },
+  {
+   "id_campania": 5,
+   "id_trabajador": 39,
+   "fecha_asignacion": "2025-08-19"
+  },
+  {
+   "id_campania": 6,
+   "id_trabajador": 1,
+   "fecha_asignacion": "2026-02-25"
+  },
+  {
+   "id_campania": 6,
+   "id_trabajador": 1,
+   "fecha_asignacion": "2026-02-09"
+  },
+  {
+   "id_campania": 7,
+   "id_trabajador": 26,
+   "fecha_asignacion": "2026-09-08"
+  },
+  {
+   "id_campania": 7,
+   "id_trabajador": 2,
+   "fecha_asignacion": "2026-10-10"
+  },
+  {
+   "id_campania": 8,
+   "id_trabajador": 35,
+   "fecha_asignacion": "2026-08-14"
+  },
+  {
+   "id_campania": 8,
+   "id_trabajador": 35,
+   "fecha_asignacion": "2026-07-09"
+  },
+  {
+   "id_campania": 8,
+   "id_trabajador": 12,
+   "fecha_asignacion": "2026-04-30"
+  },
+  {
+   "id_campania": 9,
+   "id_trabajador": 29,
+   "fecha_asignacion": "2025-08-02"
+  },
+  {
+   "id_campania": 11,
+   "id_trabajador": 38,
+   "fecha_asignacion": "2026-10-27"
+  },
+  {
+   "id_campania": 11,
+   "id_trabajador": 38,
+   "fecha_asignacion": "2026-10-31"
+  },
+  {
+   "id_campania": 11,
+   "id_trabajador": 8,
+   "fecha_asignacion": "2026-10-16"
+  },
+  {
+   "id_campania": 12,
+   "id_trabajador": 34,
+   "fecha_asignacion": "2025-05-31"
+  },
+  {
+   "id_campania": 12,
+   "id_trabajador": 34,
+   "fecha_asignacion": "2025-06-23"
+  },
+  {
+   "id_campania": 13,
+   "id_trabajador": 25,
+   "fecha_asignacion": "2025-03-16"
+  },
+  {
+   "id_campania": 13,
+   "id_trabajador": 13,
+   "fecha_asignacion": "2025-04-01"
+  },
+  {
+   "id_campania": 14,
+   "id_trabajador": 8,
+   "fecha_asignacion": "2025-05-15"
+  },
+  {
+   "id_campania": 14,
+   "id_trabajador": 8,
+   "fecha_asignacion": "2025-04-17"
+  },
+  {
+   "id_campania": 14,
+   "id_trabajador": 40,
+   "fecha_asignacion": "2025-04-28"
+  },
+  {
+   "id_campania": 14,
+   "id_trabajador": 40,
+   "fecha_asignacion": "2025-08-17"
+  },
+  {
+   "id_campania": 15,
+   "id_trabajador": 35,
+   "fecha_asignacion": "2026-09-07"
+  },
+  {
+   "id_campania": 15,
+   "id_trabajador": 26,
+   "fecha_asignacion": "2026-10-25"
+  },
+  {
+   "id_campania": 17,
+   "id_trabajador": 39,
+   "fecha_asignacion": "2026-10-05"
+  },
+  {
+   "id_campania": 17,
+   "id_trabajador": 38,
+   "fecha_asignacion": "2026-09-02"
+  },
+  {
+   "id_campania": 17,
+   "id_trabajador": 38,
+   "fecha_asignacion": "2026-08-30"
+  },
+  {
+   "id_campania": 18,
+   "id_trabajador": 19,
+   "fecha_asignacion": "2026-08-01"
+  },
+  {
+   "id_campania": 18,
+   "id_trabajador": 31,
+   "fecha_asignacion": "2026-09-18"
+  },
+  {
+   "id_campania": 19,
+   "id_trabajador": 24,
+   "fecha_asignacion": "2026-10-08"
+  },
+  {
+   "id_campania": 19,
+   "id_trabajador": 24,
+   "fecha_asignacion": "2026-11-15"
+  },
+  {
+   "id_campania": 19,
+   "id_trabajador": 31,
+   "fecha_asignacion": "2026-10-11"
+  },
+  {
+   "id_campania": 19,
+   "id_trabajador": 31,
+   "fecha_asignacion": "2026-11-19"
+  },
+  {
+   "id_campania": 21,
+   "id_trabajador": 38,
+   "fecha_asignacion": "2025-09-09"
+  },
+  {
+   "id_campania": 21,
+   "id_trabajador": 38,
+   "fecha_asignacion": "2025-05-27"
+  },
+  {
+   "id_campania": 21,
+   "id_trabajador": 34,
+   "fecha_asignacion": "2025-05-04"
+  },
+  {
+   "id_campania": 21,
+   "id_trabajador": 34,
+   "fecha_asignacion": "2025-11-01"
+  },
+  {
+   "id_campania": 22,
+   "id_trabajador": 23,
+   "fecha_asignacion": "2026-07-21"
+  },
+  {
+   "id_campania": 22,
+   "id_trabajador": 9,
+   "fecha_asignacion": "2026-07-31"
+  },
+  {
+   "id_campania": 23,
+   "id_trabajador": 31,
+   "fecha_asignacion": "2025-11-26"
+  },
+  {
+   "id_campania": 23,
+   "id_trabajador": 31,
+   "fecha_asignacion": "2025-11-06"
+  },
+  {
+   "id_campania": 23,
+   "id_trabajador": 34,
+   "fecha_asignacion": "2025-11-20"
+  },
+  {
+   "id_campania": 23,
+   "id_trabajador": 34,
+   "fecha_asignacion": "2025-11-19"
+  },
+  {
+   "id_campania": 25,
+   "id_trabajador": 1,
+   "fecha_asignacion": "2026-09-12"
+  },
+  {
+   "id_campania": 25,
+   "id_trabajador": 1,
+   "fecha_asignacion": "2026-10-15"
+  },
+  {
+   "id_campania": 25,
+   "id_trabajador": 26,
+   "fecha_asignacion": "2026-09-28"
+  },
+  {
+   "id_campania": 25,
+   "id_trabajador": 26,
+   "fecha_asignacion": "2026-06-26"
+  },
+  {
+   "id_campania": 26,
+   "id_trabajador": 22,
+   "fecha_asignacion": "2025-04-02"
+  },
+  {
+   "id_campania": 27,
+   "id_trabajador": 19,
+   "fecha_asignacion": "2026-04-14"
+  },
+  {
+   "id_campania": 27,
+   "id_trabajador": 19,
+   "fecha_asignacion": "2026-03-19"
+  },
+  {
+   "id_campania": 27,
+   "id_trabajador": 28,
+   "fecha_asignacion": "2026-01-12"
+  },
+  {
+   "id_campania": 28,
+   "id_trabajador": 5,
+   "fecha_asignacion": "2026-05-10"
+  },
+  {
+   "id_campania": 28,
+   "id_trabajador": 5,
+   "fecha_asignacion": "2026-01-27"
+  },
+  {
+   "id_campania": 29,
+   "id_trabajador": 8,
+   "fecha_asignacion": "2026-09-11"
+  },
+  {
+   "id_campania": 29,
+   "id_trabajador": 8,
+   "fecha_asignacion": "2026-11-09"
+  },
+  {
+   "id_campania": 31,
+   "id_trabajador": 6,
+   "fecha_asignacion": "2025-12-31"
+  },
+  {
+   "id_campania": 31,
+   "id_trabajador": 6,
+   "fecha_asignacion": "2026-04-13"
+  },
+  {
+   "id_campania": 32,
+   "id_trabajador": 22,
+   "fecha_asignacion": "2026-01-21"
+  },
+  {
+   "id_campania": 32,
+   "id_trabajador": 22,
+   "fecha_asignacion": "2026-02-26"
+  },
+  {
+   "id_campania": 33,
+   "id_trabajador": 30,
+   "fecha_asignacion": "2026-10-06"
+  },
+  {
+   "id_campania": 33,
+   "id_trabajador": 30,
+   "fecha_asignacion": "2026-10-08"
+  },
+  {
+   "id_campania": 34,
+   "id_trabajador": 5,
+   "fecha_asignacion": "2026-08-29"
+  },
+  {
+   "id_campania": 34,
+   "id_trabajador": 5,
+   "fecha_asignacion": "2026-09-05"
+  },
+  {
+   "id_campania": 34,
+   "id_trabajador": 6,
+   "fecha_asignacion": "2026-07-28"
+  },
+  {
+   "id_campania": 35,
+   "id_trabajador": 31,
+   "fecha_asignacion": "2026-06-24"
+  },
+  {
+   "id_campania": 36,
+   "id_trabajador": 15,
+   "fecha_asignacion": "2025-12-20"
+  },
+  {
+   "id_campania": 36,
+   "id_trabajador": 15,
+   "fecha_asignacion": "2025-10-15"
+  },
+  {
+   "id_campania": 37,
+   "id_trabajador": 34,
+   "fecha_asignacion": "2026-02-18"
+  },
+  {
+   "id_campania": 37,
+   "id_trabajador": 34,
+   "fecha_asignacion": "2026-05-10"
+  },
+  {
+   "id_campania": 38,
+   "id_trabajador": 27,
+   "fecha_asignacion": "2025-10-10"
+  },
+  {
+   "id_campania": 39,
+   "id_trabajador": 14,
+   "fecha_asignacion": "2025-11-22"
+  },
+  {
+   "id_campania": 39,
+   "id_trabajador": 14,
+   "fecha_asignacion": "2025-12-04"
+  },
+  {
+   "id_campania": 40,
+   "id_trabajador": 39,
+   "fecha_asignacion": "2026-07-04"
+  }
+ ]
+}

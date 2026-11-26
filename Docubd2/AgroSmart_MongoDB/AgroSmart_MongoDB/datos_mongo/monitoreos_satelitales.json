@@ -1,0 +1,1096 @@
+[
+ {
+  "id_parcela": 1,
+  "id_campania": 1,
+  "fecha_captura": {
+   "$date": "2025-04-11T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.72
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 1,
+  "fecha_captura": {
+   "$date": "2025-04-29T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.82,
+   "evi": 0.51,
+   "savi": 0.62
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 2,
+  "fecha_captura": {
+   "$date": "2025-05-22T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.25,
+   "evi": 0.1,
+   "savi": 0.23
+  },
+  "cobertura_nubes_pct": 45,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 2,
+  "fecha_captura": {
+   "$date": "2025-08-15T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.64,
+   "evi": 0.35,
+   "savi": 0.48
+  },
+  "cobertura_nubes_pct": 25,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 3,
+  "fecha_captura": {
+   "$date": "2025-04-07T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.61,
+   "savi": 0.41
+  },
+  "cobertura_nubes_pct": 20,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 3,
+  "fecha_captura": {
+   "$date": "2025-06-03T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.66,
+   "evi": 0.35,
+   "savi": 0.45
+  },
+  "cobertura_nubes_pct": 25,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 3,
+  "fecha_captura": {
+   "$date": "2025-06-25T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.31,
+   "evi": 0.23,
+   "savi": 0.25
+  },
+  "cobertura_nubes_pct": 60,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 4,
+  "id_campania": 4,
+  "fecha_captura": {
+   "$date": "2025-05-12T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.32,
+   "evi": 0.21,
+   "savi": 0.22
+  },
+  "cobertura_nubes_pct": 0,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 4,
+  "id_campania": 4,
+  "fecha_captura": {
+   "$date": "2025-06-05T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.8,
+   "evi": 0.47,
+   "savi": 0.63
+  },
+  "cobertura_nubes_pct": 45,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 4,
+  "id_campania": 4,
+  "fecha_captura": {
+   "$date": "2025-07-02T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.42,
+   "evi": 0.29,
+   "savi": 0.33
+  },
+  "cobertura_nubes_pct": 20,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 5,
+  "id_campania": 5,
+  "fecha_captura": {
+   "$date": "2025-06-16T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.56,
+   "evi": 0.37
+  },
+  "cobertura_nubes_pct": 35,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 5,
+  "id_campania": 5,
+  "fecha_captura": {
+   "$date": "2025-10-14T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.31
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 6,
+  "id_campania": 6,
+  "fecha_captura": {
+   "$date": "2026-01-21T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.74,
+   "evi": 0.43
+  },
+  "cobertura_nubes_pct": 5,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 6,
+  "id_campania": 6,
+  "fecha_captura": {
+   "$date": "2026-03-07T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.39,
+   "evi": 0.24
+  },
+  "cobertura_nubes_pct": 25,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 7,
+  "id_campania": 7,
+  "fecha_captura": {
+   "$date": "2026-10-30T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.61,
+   "evi": 0.39
+  },
+  "cobertura_nubes_pct": 35,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 7,
+  "id_campania": 7,
+  "fecha_captura": {
+   "$date": "2026-11-11T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.37,
+   "evi": 0.18,
+   "savi": 0.37
+  },
+  "cobertura_nubes_pct": 0,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 8,
+  "id_campania": 8,
+  "fecha_captura": {
+   "$date": "2026-04-08T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.23,
+   "evi": 0.18,
+   "savi": 0.2
+  },
+  "cobertura_nubes_pct": 5,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 8,
+  "id_campania": 8,
+  "fecha_captura": {
+   "$date": "2026-06-20T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.83,
+   "evi": 0.52,
+   "savi": 0.59
+  },
+  "cobertura_nubes_pct": 20,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 9,
+  "id_campania": 9,
+  "fecha_captura": {
+   "$date": "2025-07-07T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.28,
+   "savi": 0.19
+  },
+  "cobertura_nubes_pct": 35,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 9,
+  "id_campania": 9,
+  "fecha_captura": {
+   "$date": "2025-08-03T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.81,
+   "evi": 0.62,
+   "savi": 0.63
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 11,
+  "id_campania": 11,
+  "fecha_captura": {
+   "$date": "2026-10-18T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.43
+  },
+  "cobertura_nubes_pct": 5,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 11,
+  "id_campania": 11,
+  "fecha_captura": {
+   "$date": "2026-11-12T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.68,
+   "evi": 0.47,
+   "savi": 0.54
+  },
+  "cobertura_nubes_pct": 10,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 11,
+  "id_campania": 11,
+  "fecha_captura": {
+   "$date": "2026-11-18T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.36,
+   "evi": 0.26
+  },
+  "cobertura_nubes_pct": 25,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 12,
+  "id_campania": 12,
+  "fecha_captura": {
+   "$date": "2025-06-08T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.66,
+   "evi": 0.44,
+   "savi": 0.49
+  },
+  "cobertura_nubes_pct": 60,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 12,
+  "id_campania": 12,
+  "fecha_captura": {
+   "$date": "2025-07-12T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.82,
+   "evi": 0.57
+  },
+  "cobertura_nubes_pct": 15,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 12,
+  "id_campania": 12,
+  "fecha_captura": {
+   "$date": "2025-07-27T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.73,
+   "evi": 0.48,
+   "savi": 0.57
+  },
+  "cobertura_nubes_pct": 10,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 13,
+  "id_campania": 13,
+  "fecha_captura": {
+   "$date": "2025-06-05T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.72,
+   "evi": 0.52
+  },
+  "cobertura_nubes_pct": 15,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 14,
+  "id_campania": 14,
+  "fecha_captura": {
+   "$date": "2025-08-01T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.5,
+   "evi": 0.33,
+   "savi": 0.36
+  },
+  "cobertura_nubes_pct": 35,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 15,
+  "id_campania": 15,
+  "fecha_captura": {
+   "$date": "2026-10-28T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.72,
+   "evi": 0.48
+  },
+  "cobertura_nubes_pct": 15,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 15,
+  "id_campania": 15,
+  "fecha_captura": {
+   "$date": "2026-11-05T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.59,
+   "evi": 0.33,
+   "savi": 0.39
+  },
+  "cobertura_nubes_pct": 45,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 17,
+  "id_campania": 17,
+  "fecha_captura": {
+   "$date": "2026-09-20T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.73,
+   "evi": 0.47,
+   "savi": 0.53
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 17,
+  "id_campania": 17,
+  "fecha_captura": {
+   "$date": "2026-10-08T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.79,
+   "evi": 0.46,
+   "savi": 0.55
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 18,
+  "id_campania": 18,
+  "fecha_captura": {
+   "$date": "2026-08-12T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.82,
+   "savi": 0.58
+  },
+  "cobertura_nubes_pct": 5,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 18,
+  "id_campania": 18,
+  "fecha_captura": {
+   "$date": "2026-10-10T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.23
+  },
+  "cobertura_nubes_pct": 35,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 19,
+  "id_campania": 19,
+  "fecha_captura": {
+   "$date": "2026-09-13T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.37,
+   "evi": 0.28,
+   "savi": 0.26
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 19,
+  "id_campania": 19,
+  "fecha_captura": {
+   "$date": "2026-10-23T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.82,
+   "savi": 0.65
+  },
+  "cobertura_nubes_pct": 10,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 21,
+  "id_campania": 21,
+  "fecha_captura": {
+   "$date": "2025-02-18T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.36,
+   "evi": 0.23,
+   "savi": 0.26
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 21,
+  "id_campania": 21,
+  "fecha_captura": {
+   "$date": "2025-02-26T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.32,
+   "evi": 0.24
+  },
+  "cobertura_nubes_pct": 20,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 22,
+  "id_campania": 22,
+  "fecha_captura": {
+   "$date": "2026-07-25T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.62,
+   "savi": 0.43
+  },
+  "cobertura_nubes_pct": 15,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 22,
+  "id_campania": 22,
+  "fecha_captura": {
+   "$date": "2026-07-28T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.75,
+   "evi": 0.46,
+   "savi": 0.59
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 23,
+  "id_campania": 23,
+  "fecha_captura": {
+   "$date": "2025-11-05T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.78,
+   "evi": 0.55,
+   "savi": 0.63
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 23,
+  "id_campania": 23,
+  "fecha_captura": {
+   "$date": "2025-11-27T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.69,
+   "evi": 0.46,
+   "savi": 0.5
+  },
+  "cobertura_nubes_pct": 20,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 25,
+  "id_campania": 25,
+  "fecha_captura": {
+   "$date": "2026-10-22T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.57,
+   "evi": 0.39
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 25,
+  "id_campania": 25,
+  "fecha_captura": {
+   "$date": "2026-10-31T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.49,
+   "evi": 0.29,
+   "savi": 0.38
+  },
+  "cobertura_nubes_pct": 45,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 26,
+  "id_campania": 26,
+  "fecha_captura": {
+   "$date": "2025-05-07T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.71,
+   "evi": 0.48,
+   "savi": 0.56
+  },
+  "cobertura_nubes_pct": 10,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 26,
+  "id_campania": 26,
+  "fecha_captura": {
+   "$date": "2025-06-27T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.81,
+   "evi": 0.62,
+   "savi": 0.63
+  },
+  "cobertura_nubes_pct": 25,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 26,
+  "id_campania": 26,
+  "fecha_captura": {
+   "$date": "2025-07-02T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.73
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 27,
+  "id_campania": 27,
+  "fecha_captura": {
+   "$date": "2026-02-04T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.66,
+   "evi": 0.42,
+   "savi": 0.48
+  },
+  "cobertura_nubes_pct": 15,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 27,
+  "id_campania": 27,
+  "fecha_captura": {
+   "$date": "2026-06-25T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.68,
+   "savi": 0.53
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 28,
+  "id_campania": 28,
+  "fecha_captura": {
+   "$date": "2026-02-18T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.67,
+   "evi": 0.41,
+   "savi": 0.42
+  },
+  "cobertura_nubes_pct": 10,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 28,
+  "id_campania": 28,
+  "fecha_captura": {
+   "$date": "2026-04-07T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.77,
+   "evi": 0.53,
+   "savi": 0.64
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 28,
+  "id_campania": 28,
+  "fecha_captura": {
+   "$date": "2026-05-18T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.36
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 29,
+  "id_campania": 29,
+  "fecha_captura": {
+   "$date": "2026-09-15T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.7,
+   "evi": 0.5,
+   "savi": 0.47
+  },
+  "cobertura_nubes_pct": 10,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 29,
+  "id_campania": 29,
+  "fecha_captura": {
+   "$date": "2026-09-18T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.75,
+   "evi": 0.53
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 29,
+  "id_campania": 29,
+  "fecha_captura": {
+   "$date": "2026-09-26T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.8
+  },
+  "cobertura_nubes_pct": 45,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 31,
+  "id_campania": 31,
+  "fecha_captura": {
+   "$date": "2026-03-10T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.81,
+   "evi": 0.55,
+   "savi": 0.64
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 32,
+  "id_campania": 32,
+  "fecha_captura": {
+   "$date": "2025-08-02T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.36
+  },
+  "cobertura_nubes_pct": 10,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 32,
+  "id_campania": 32,
+  "fecha_captura": {
+   "$date": "2025-09-19T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.61,
+   "savi": 0.52
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 32,
+  "id_campania": 32,
+  "fecha_captura": {
+   "$date": "2025-11-27T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.79,
+   "evi": 0.49,
+   "savi": 0.56
+  },
+  "cobertura_nubes_pct": 0,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 33,
+  "id_campania": 33,
+  "fecha_captura": {
+   "$date": "2026-09-24T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.41,
+   "evi": 0.32,
+   "savi": 0.38
+  },
+  "cobertura_nubes_pct": 20,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 33,
+  "id_campania": 33,
+  "fecha_captura": {
+   "$date": "2026-10-24T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.79,
+   "evi": 0.47,
+   "savi": 0.55
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 34,
+  "id_campania": 34,
+  "fecha_captura": {
+   "$date": "2026-07-14T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.79
+  },
+  "cobertura_nubes_pct": 5,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 34,
+  "id_campania": 34,
+  "fecha_captura": {
+   "$date": "2026-08-20T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.72,
+   "evi": 0.48
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 35,
+  "id_campania": 35,
+  "fecha_captura": {
+   "$date": "2026-06-20T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.25,
+   "savi": 0.18
+  },
+  "cobertura_nubes_pct": 0,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 35,
+  "id_campania": 35,
+  "fecha_captura": {
+   "$date": "2026-06-23T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.65
+  },
+  "cobertura_nubes_pct": 45,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 36,
+  "fecha_captura": {
+   "$date": "2025-11-18T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.54,
+   "savi": 0.39
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 1,
+  "id_campania": 36,
+  "fecha_captura": {
+   "$date": "2026-06-02T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.57,
+   "savi": 0.44
+  },
+  "cobertura_nubes_pct": 45,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 37,
+  "fecha_captura": {
+   "$date": "2026-03-07T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.6,
+   "evi": 0.39,
+   "savi": 0.43
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 2,
+  "id_campania": 37,
+  "fecha_captura": {
+   "$date": "2026-06-24T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.45,
+   "evi": 0.31
+  },
+  "cobertura_nubes_pct": 5,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 38,
+  "fecha_captura": {
+   "$date": "2025-11-10T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.75,
+   "evi": 0.5
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 3,
+  "id_campania": 38,
+  "fecha_captura": {
+   "$date": "2025-11-24T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.7,
+   "evi": 0.4
+  },
+  "cobertura_nubes_pct": 3,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 4,
+  "id_campania": 39,
+  "fecha_captura": {
+   "$date": "2025-12-18T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.84,
+   "evi": 0.5,
+   "savi": 0.58
+  },
+  "cobertura_nubes_pct": 60,
+  "calidad": "mala",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 4,
+  "id_campania": 39,
+  "fecha_captura": {
+   "$date": "2025-12-24T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.77,
+   "evi": 0.48,
+   "savi": 0.6
+  },
+  "cobertura_nubes_pct": 25,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 4,
+  "id_campania": 39,
+  "fecha_captura": {
+   "$date": "2026-02-26T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.42,
+   "savi": 0.27
+  },
+  "cobertura_nubes_pct": 25,
+  "calidad": "regular",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 5,
+  "id_campania": 40,
+  "fecha_captura": {
+   "$date": "2026-08-23T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.77,
+   "evi": 0.39,
+   "savi": 0.58
+  },
+  "cobertura_nubes_pct": 0,
+  "calidad": "buena",
+  "origen": "sintetico"
+ },
+ {
+  "id_parcela": 5,
+  "id_campania": 40,
+  "fecha_captura": {
+   "$date": "2026-11-14T15:00:00Z"
+  },
+  "indices": {
+   "ndvi": 0.28,
+   "evi": 0.18,
+   "savi": 0.24
+  },
+  "cobertura_nubes_pct": 8,
+  "calidad": "buena",
+  "origen": "sintetico"
+ }
+]

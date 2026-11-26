@@ -1,8 +1,10 @@
 import { useEffect, useState } from 'react';
-import { ChevronLeft, ChevronRight, FileJson, Filter, Plus } from 'lucide-react';
+import { ChevronLeft, ChevronRight, Eye, Filter, Plus } from 'lucide-react';
 import type { datasets } from '../../shared/datasets.mjs';
 import { recordFields } from '../../shared/recordFields.mjs';
 import { fetchApi } from '../utils/api';
+import { formatRecordValue } from '../utils/recordDisplay';
+import { RecordDetails } from './RecordDetails';
 import { RecordDialog, type RecordAction } from './RecordDialog';
 
 type Dataset = (typeof datasets)[number];
@@ -10,23 +12,13 @@ type Row = Record<string, unknown>;
 type Page = { records: Row[]; hasMore: boolean };
 const pageSize = 20;
 const inputClass = 'mt-1 block w-full rounded-lg border border-slate-300 bg-white px-3 py-2 text-sm';
-const dateTime = new Intl.DateTimeFormat('es-PE', {
-  dateStyle: 'short', timeStyle: 'short', timeZone: 'America/Lima',
-});
-
 function display(value: unknown, field: string) {
-  if (value === null || value === undefined || value === '') return '—';
-  if (typeof value === 'boolean') return value ? 'Sí' : 'No';
-  if (typeof value === 'string' && /^\d{4}-\d{2}-\d{2}T/.test(value) && !Number.isNaN(Date.parse(value))) {
-    return dateTime.format(new Date(value));
-  }
   if (field === 'mediciones' && Array.isArray(value)) {
     return value.map(({ tipo, valor, unidad }) =>
       `${tipo === 'humedad_suelo' ? 'Humedad' : tipo === 'temperatura_ambiente' ? 'Temperatura' : tipo} ${valor} ${unidad}`
     ).join(' · ');
   }
-  if (typeof value === 'object') return JSON.stringify(value);
-  return String(value);
+  return formatRecordValue(value);
 }
 
 export function RecordsView({ dataset, revision, fixedParcel }: {
@@ -147,7 +139,7 @@ export function RecordsView({ dataset, revision, fixedParcel }: {
                     <div className="flex gap-1 whitespace-nowrap">
                       <button type="button" onClick={() => setSelected(record)}
                         className="inline-flex items-center gap-1 rounded-lg px-2 py-1.5 font-medium text-emerald-800 hover:bg-emerald-50">
-                        <FileJson className="h-4 w-4" aria-hidden="true" /> Ver
+                        <Eye className="h-4 w-4" aria-hidden="true" /> Ver
                       </button>
                       {canWrite && (
                         <>
@@ -180,19 +172,7 @@ export function RecordsView({ dataset, revision, fixedParcel }: {
           </div>
         </div>
       )}
-      {selected && (
-        <dialog ref={(element) => { if (element && !element.open) element.showModal(); }}
-          onClose={() => setSelected(null)} aria-labelledby="record-title"
-          className="m-auto w-[min(90vw,44rem)] rounded-xl border border-slate-200 bg-white p-0 shadow-xl backdrop:bg-slate-900/40">
-          <div className="flex items-center justify-between gap-3 border-b border-slate-200 px-4 py-3">
-            <h2 id="record-title" className="font-semibold">Detalle del registro</h2>
-            <form method="dialog">
-              <button className="rounded-lg bg-slate-100 px-3 py-2 text-sm font-medium">Cerrar</button>
-            </form>
-          </div>
-          <pre className="max-h-[65vh] overflow-auto bg-slate-50 p-4 text-xs text-slate-800">{JSON.stringify(selected, null, 2)}</pre>
-        </dialog>
-      )}
+      {selected && <RecordDetails dataset={dataset} record={selected} onClose={() => setSelected(null)} />}
       {action && (
         <RecordDialog dataset={dataset} action={action} fixedParcel={fixedParcel} close={() => setAction(null)}
           saved={(kind, id) => {
